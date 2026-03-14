@@ -30,6 +30,28 @@ Full transparency into the RAG process.
 
 Displays specific Project IDs and Match Scores (e.g., Project_0567 | 87% Match) to prove the schedule is grounded in data.
 
+# 📸 Documentation: Visual Walkthrough
+1. The Intelligence Gate: Parametric Input & Similarity Detection
+This is the starting point of the Grounded-RAG workflow. Instead of a blank prompt, the system requires structural parameters to define the search space.
+•	What it shows: The user defines the project context (e.g., Northeast Region, Clinical Infrastructure, Hospitals). Immediately upon clicking "Generate," the system performs a weighted Euclidean distance calculation against the meta_data.csv.
+•	Technical Description: The "Similarity Detection Logs" (visible on the main screen) display the Grounding Confidence. This provides transparency by showing the specific Project IDs from which the AI is "learning" its schedule logic. It proves the system is retrieving real construction data before generating a single task.
+ 
+
+2. The Executive Dashboard: Multimodal Visualization
+Once the retrieval is complete, the LLM orchestrates the data into three distinct, synchronized views.
+•	What it shows: The Executive Overview cards, the Live Gantt Chart, and the Financial Allocation donut chart.
+•	Technical Description: This view represents the Transformation Layer. The LLM processes the raw CSV retrieval and outputs a stateful data block. Streamlit then parses this block into interactive Plotly objects. This allows stakeholders to immediately identify the Peak Labor Phase and Critical Path without reading through raw spreadsheets.
+ 
+3. Dynamic Risk Modeling: Weather Simulation
+This feature demonstrates the Stateful Refinement capability of the system.
+•	What it shows: The user adjusting the "Delay Duration" slider in the sidebar and the resulting update in the chat bubble and Gantt chart.
+•	Technical Description: When a weather delay is triggered, the prompt design forces a Chain-of-Thought (CoT) reasoning process. The AI identifies specific "outdoor-sensitive" phases (like Substructure or Exterior Fabrication) and applies a temporal shift. Because the system maintains dependency logic, the entire timeline "ripples" forward, accurately reflecting how real-world delays impact project delivery.
+ 
+4. Conversational Refinement: The Schedule Assistant
+The Assistant is the bridge between human expertise and AI automation.
+•	What it shows: A clean, numbered chat history where the user asks for specific optimizations (e.g., "Make construction 10 days faster").
+•	Technical Description: The Assistant uses Prompt Shielding and Selective Markdown Rendering. We filter out the "Machine Data" (CSV tags) from the chat bubbles to provide a clean, human-readable narrative. The LLM justifies its changes (e.g., "Shortened 'Finishes' by 5 days as it had the most flexibility") while simultaneously updating the backend data to keep the charts in sync.
+
 # 🛠️ Technical Stack
 Frontend: Streamlit
 
