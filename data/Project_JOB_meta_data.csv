@@ -1,0 +1,1130 @@
+CONTROL_JOB_NO,REGION_NAME,BUSINESS_UNIT,OFFICE_NAME,CITY,STATE,CORE_MARKET,MARKET_SECTOR,PROJECT_TYPE,TOTAL_CONTROL_ESTIMATE,BUILDING_SIZE
+PROJECT_0524,Northeast,Boston,Boston,Worcester,MA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1344709.0,1520.0
+PROJECT_0061,Northwest,Sacramento,Sacramento,Santa Rosa,CA,Clinical Infrastructure,,Hospitals,0.0,0.0
+PROJECT_0139,Southwest,SoCal,Newport Beach,Los Angeles,CA,Clinical Infrastructure,,Hospitals,777668.0,
+PROJECT_0156,Southwest,SoCal,Newport Beach,,,Advanced Systems & Innovation,,Advanced Manufacturing,165000.0,50000.0
+PROJECT_0371,Southeast,Atlanta,Atlanta,Norcross,GA,Biomedical Facilities,BF-Medical Device,R&amp;D Building (Laboratories),598035587.23,1100000.0
+PROJECT_0523,Northeast,Boston,Boston,Smithfield,RI,Biomedical Facilities,,Biopharm Manufacturing,4351833.0,55000.0
+PROJECT_0025,Northwest,Bay Area,Silicon Valley,Berkeley,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,1425346.0,2000.0
+PROJECT_0033,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),713305.0,600.0
+PROJECT_0273,Central,Dallas FTW,Dallas FTW,Denton,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2003986.0,1100.0
+PROJECT_0321,Northeast,DC - Baltimore,Washington DC,Dulles,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,59242758.0,24.0
+PROJECT_0035,Northwest,Bay Area,Silicon Valley,Berkeley,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,570914.0,1000.0
+PROJECT_0529,Northeast,Boston,Boston,Foxboro,MA,Clinical Infrastructure,,Hospitals,165774.0,1100.0
+PROJECT_0418,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,,Mission Critical,1993026.0,55000.0
+PROJECT_0432,Southeast,Central Florida,Tampa,LUTZ,FL,Other,,Mission Critical,9237273.0,150000.0
+PROJECT_0477,Southeast,Charlotte-Greenville,Charlotte,Matthews,NC,Clinical Infrastructure,,Hospitals,717752.0,88000.0
+PROJECT_0235,Central,Austin,Austin,Abilene,TX,Advanced Systems & Innovation,,Mission Critical,844832024.0,948000.0
+PROJECT_0489,Southeast,Nashville,Nashville,Nashville,TN,Clinical Infrastructure,CI-Healthcare Provider,R&amp;D Building (Laboratories),17141052.0,5800.0
+PROJECT_0393,Southeast,South Florida,South Florida,Pembroke Pines,FL,Clinical Infrastructure,,Outpatient Healthcare,2617922.0,30000.0
+PROJECT_0559,,,,Englewood,CO,Clinical Infrastructure,,Hospitals,163099050.82,
+PROJECT_0533,Northeast,Boston,Boston,Warwick,MA,Clinical Infrastructure,,Outpatient Healthcare,4101677.0,95450.0
+PROJECT_0029,Northwest,Bay Area,Silicon Valley,Foster City,CA,Other,,Advanced Manufacturing,10880.0,880.0
+PROJECT_0086,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,0.0,1046120.0
+PROJECT_0081,Northwest,Bay Area,San Francisco,San Francisco,CA,Academic Institutions,AI-Public,Education/Classroom Space,142972466.0,184000.0
+PROJECT_0006,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,460208.0,4000.0
+PROJECT_0261,Central,Dallas FTW,Dallas FTW,Ft. Worth,TX,Clinical Infrastructure,CI-Healthcare Provider,Other,439380.0,182152.0
+PROJECT_0570,,,,Denver,CO,Advanced Systems & Innovation,,Mission Critical,857888.0,7000.0
+PROJECT_0413,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,,Mission Critical,46592624.0,192000.0
+PROJECT_0078,Northwest,Sacramento,Sacramento,Sacramento,CA,Clinical Infrastructure,,Hospitals,0.0,40000.0
+PROJECT_0223,Central,Austin,Austin,Austin,TX,Corporate & Workplace,,Residential,0.0,757000.0
+PROJECT_0241,Central,Austin,Austin,Lakeway,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,483892.0,6000.0
+PROJECT_0325,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1088665.0,0.0
+PROJECT_0316,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,20.0
+PROJECT_0314,Northeast,DC - Baltimore,Washington DC,Sterling,VA,Advanced Systems & Innovation,,Mission Critical,45113868.0,8.0
+PROJECT_0527,Northeast,Boston,Boston,Westborough,MA,Advanced Systems & Innovation,,Office,154689.0,10000.0
+PROJECT_0185,Southwest,Arizona,Phoenix,Mesa,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2493782.0,100.0
+PROJECT_0276,Central,Dallas FTW,Dallas FTW,Frisco,TX,Clinical Infrastructure,,Hospitals,13465271.0,174000.0
+PROJECT_0542,Northwest,Pacific Northwest,Seattle,Tacoma,WA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,273847.27,0.0
+PROJECT_0160,Southwest,SoCal,Newport Beach,Vernon,CA,Advanced Systems & Innovation,,Mission Critical,250480.0,286350.0
+PROJECT_0014,Northwest,Bay Area,Silicon Valley,Sunnyvale,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),56245.0,24000.0
+PROJECT_0207,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1399154.0,800.0
+PROJECT_0221,Southwest,Arizona,Tucson,Tucson,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2333767.0,
+PROJECT_0311,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,616618.0,4500.0
+PROJECT_0287,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,,Mission Critical,39330.44,12.0
+PROJECT_0169,Southwest,Arizona,Phoenix,Mesa,AZ,Advanced Systems & Innovation,,Mission Critical,0.0,1400000.0
+PROJECT_0457,Southeast,Central Florida,Orlando,Davenport,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,653152.0,8227.0
+PROJECT_0572,,,,Westminster,CO,Clinical Infrastructure,,Hospitals,223658.0,
+PROJECT_0249,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,195607.0,715.0
+PROJECT_0545,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,,R&amp;D Building (Laboratories),51840.0,950.0
+PROJECT_0218,Southwest,Arizona,Tucson,Tucson,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,7996410.0,7112.0
+PROJECT_0243,Central,Austin,Austin,Austin,TX,Corporate & Workplace,,Office,983205.25,2500.0
+PROJECT_0515,Northeast,Boston,Boston,,,Clinical Infrastructure,,Hospitals,45000.0,212000.0
+PROJECT_0138,Southwest,SoCal,Newport Beach,San Marino,CA,Other,,Other,838669.0,90000.0
+PROJECT_0016,Northwest,Bay Area,Silicon Valley,Livermore,CA,Corporate & Workplace,,Office,0.0,10200.0
+PROJECT_0104,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,,Hospitals,3778023.0,150000.0
+PROJECT_0325,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,541189.0,0.0
+PROJECT_0165,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,9625986.0,59243.0
+PROJECT_0460,Southeast,Central Florida,Orlando,Ocala,FL,Other,,Warehouse / Distribution,37500.0,74000.0
+PROJECT_0208,Southwest,Arizona,Phoenix,phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,1800.0
+PROJECT_0468,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,,Office,277340.0,19600.0
+PROJECT_0009,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,888635.0,50000.0
+PROJECT_0293,Central,Dallas FTW,Dallas FTW,Irving,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2228693.0,15700.0
+PROJECT_0387,Southeast,Atlanta,Atlanta,Johns Creek,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1387307.0,1850.0
+PROJECT_0408,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,5622263.0,0.0
+PROJECT_0407,Southeast,Raleigh-Durham,Raleigh-Durham,Greenville,NC,Biomedical Facilities,,Biopharm Manufacturing,9736624.0,100000.0
+PROJECT_0226,Central,Austin,Austin,Pflugerville,TX,Clinical Infrastructure,,Hospitals,1943522.08,113500.0
+PROJECT_0042,Northwest,Bay Area,Silicon Valley,San Jose,CA,Advanced Systems & Innovation,,Mission Critical,6318385.0,300000.0
+PROJECT_0233,Central,Austin,Austin,Del Valle,TX,Other,,Other,5278386.0,22.0
+PROJECT_0210,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,980504.0,1950.0
+PROJECT_0105,Southwest,San Diego,San Diego,Vista,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,34880261.0,3650.0
+PROJECT_0402,Southeast,South Florida,South Florida,Miami,FL,Other,,Office,157800.46,10000.0
+PROJECT_0116,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),3714183.0,10000.0
+PROJECT_0532,Northeast,Boston,Boston,Storrs,CT,Academic Institutions,AI-Public,Sports and Athletics,0.0,190000.0
+PROJECT_0505,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,,Mission Critical,842933.0,5000.0
+PROJECT_0116,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),692896.0,10000.0
+PROJECT_0448,Southeast,Central Florida,Orlando,St. Augustine,FL,Academic Institutions,AI-Public,Education/Classroom Space,33356277.0,46560.0
+PROJECT_0225,Central,Austin,Austin,Georgetown,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,50710618.0,30000.0
+PROJECT_0455,Southeast,Central Florida,Orlando,Orlando,FL,Other,OTH-Professional Sports,Other,50000.0,30000.0
+PROJECT_0263,Central,Dallas FTW,Dallas FTW,Coppell,TX,Biomedical Facilities,,Biopharm Manufacturing,184905.0,12500.0
+PROJECT_0509,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,,Mission Critical,644627.0,2000.0
+PROJECT_0551,,,Colorado Springs (D8-A),Colorado Springs,CO,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,14374981.0,56000.0
+PROJECT_0531,Northeast,Boston,Boston,Westborough,MA,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Office,1540230.0,
+PROJECT_0425,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1097251.0,10000.0
+PROJECT_0495,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,,Hospitals,0.0,800.0
+PROJECT_0186,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,636910.0,1200.0
+PROJECT_0424,Southeast,Raleigh-Durham,Raleigh-Durham,Morrisville,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,29412.0,10000.0
+PROJECT_0067,Northwest,Sacramento,Sacramento,Santa Rosa,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1261081.0,0.0
+PROJECT_0027,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Office,3417789.0,
+PROJECT_0399,Southeast,South Florida,South Florida,Kendall,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,400000.0
+PROJECT_0350,Northeast,Richmond,Richmond,Petersburg,VA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,0.0
+PROJECT_0413,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,ASI-Developer,Mission Critical,43270414.2,192000.0
+PROJECT_0348,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,20026279.0,27500.0
+PROJECT_0034,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Mission Critical,0.0,40000.0
+PROJECT_0470,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Advanced Systems & Innovation,ASI-Developer,Mission Critical,16265991.0,
+PROJECT_0178,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1408677.12,13000.0
+PROJECT_0427,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,9153.0
+PROJECT_0559,,,Denver (D8-B),Englewood,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,
+PROJECT_0129,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,,Biopharm Manufacturing,2513435.0,7000.0
+PROJECT_0182,Southwest,Arizona,Phoenix,PHOENIX,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,800.0
+PROJECT_0345,Northeast,Richmond,Richmond,Sandston,VA,Advanced Systems & Innovation,ASI-Enterprise Technologies,,14377975.0,53.0
+PROJECT_0495,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,286723.0,800.0
+PROJECT_0478,Southeast,Charlotte-Greenville,Charlotte,Concord,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,622955.27,10000.0
+PROJECT_0130,Southwest,SoCal,Newport Beach,,,Corporate & Workplace,,Mission Critical,0.0,45000.0
+PROJECT_0251,Central,Austin,Austin,Pflugerville,TX,Clinical Infrastructure,,Hospitals,240510.08,815.0
+PROJECT_0121,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),678083.0,500.0
+PROJECT_0117,Southwest,San Diego,San Diego,La Mesa,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,350000.0
+PROJECT_0567,,,,,,Clinical Infrastructure,,Hospitals,473984.0,5000.0
+PROJECT_0479,Southeast,Charlotte-Greenville,Charlotte,Shelby,NC,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,317572.0,225.0
+PROJECT_0487,Southeast,Nashville,Nashville,Gallatin,TN,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,0.0,360000.0
+PROJECT_0452,Southeast,Central Florida,Orlando,Lake Buena Vista,FL,Corporate & Workplace,CW-Hospitality,Hotel / Convention Center,2061158.0,21000.0
+PROJECT_0391,Southeast,South Florida,South Florida,Deerfield Beach,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,19169602.0,25000.0
+PROJECT_0500,Northeast,New Jersey,New Jersey,,,Corporate & Workplace,,Mission Critical,6674583.51,20000.0
+PROJECT_0549,Northwest,Pacific Northwest,Seattle,,,Biomedical Facilities,,Office,44262.0,
+PROJECT_0175,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,10755365.64,25000.0
+PROJECT_0071,Northwest,Sacramento,Sacramento,Sacramento,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1848132.0,1250.0
+PROJECT_0394,Southeast,South Florida,South Florida,,FL,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,21486302.13,17000.0
+PROJECT_0476,Southeast,Charlotte-Greenville,Charlotte,Fort Mill,SC,Advanced Systems & Innovation,ASI-Internet & Telecom,Office,1616476.0,180000.0
+PROJECT_0197,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1085880.0,750.0
+PROJECT_0117,Southwest,San Diego,San Diego,,,Clinical Infrastructure,,Hospitals,9000000.0,350000.0
+PROJECT_0570,,,Denver (D8-B),Denver,CO,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,12697867.0,7000.0
+PROJECT_0464,Southeast,Central Florida,Orlando,Lake Buena Vista,FL,Corporate & Workplace,CW-Media & Entertainment,Retail,5886870.0,6860.0
+PROJECT_0119,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),210622.0,50000.0
+PROJECT_0554,,,,Colorado Springs,CO,Advanced Systems & Innovation,,Mission Critical,0.0,350.0
+PROJECT_0481,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,CW-Developer,Office,4560274.0,35000.0
+PROJECT_0493,Southeast,Nashville,Nashville,Nashville,TN,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,445022.0,1264.0
+PROJECT_0247,Central,Austin,Austin,Lakeway,TX,Clinical Infrastructure,,Hospitals,378862.0,
+PROJECT_0418,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,ASI-Developer,Mission Critical,24880544.0,55000.0
+PROJECT_0514,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,8924593.0,
+PROJECT_0265,Central,Dallas FTW,Dallas FTW,Westlake,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,3028521.0,12.0
+PROJECT_0502,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,22676424.0,35000.0
+PROJECT_0391,Southeast,South Florida,South Florida,,,Clinical Infrastructure,,Hospitals,41560.0,25000.0
+PROJECT_0451,Southeast,Central Florida,Orlando,Orlando,FL,Other,OTH-Cultural & Community,Sports and Athletics,0.0,44000.0
+PROJECT_0138,Southwest,SoCal,Newport Beach,San Marino,CA,Other,OTH-Cultural & Community,Other,0.0,90000.0
+PROJECT_0469,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,,Mission Critical,0.0,875000.0
+PROJECT_0295,Central,Dallas FTW,Dallas FTW,Irving,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,16155940.0,21136.0
+PROJECT_0461,Southeast,Central Florida,Orlando,Orlando,FL,Academic Institutions,AI-Public,Education/Classroom Space,973884.0,1300.0
+PROJECT_0472,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,4698513.0,30000.0
+PROJECT_0538,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,,Other,0.0,
+PROJECT_0086,Southwest,San Diego,San Diego,,,Biomedical Facilities,,Other,15544933.0,1046120.0
+PROJECT_0360,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,AI-Private,Education/Classroom Space,3237535.0,10000.0
+PROJECT_0476,Southeast,Charlotte-Greenville,Charlotte,Fort Mill,SC,Advanced Systems & Innovation,,Office,14701289.0,180000.0
+PROJECT_0350,Northeast,Richmond,Richmond,,,Biomedical Facilities,,Biopharm Manufacturing,13301983.57,0.0
+PROJECT_0068,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,,Hospitals,48004.0,0.0
+PROJECT_0089,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,,Office,-7883894.0,156000.0
+PROJECT_0090,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),97500.0,385000.0
+PROJECT_0424,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,4316152.0,10000.0
+PROJECT_0382,Southeast,Atlanta,Atlanta,Social Circle,GA,Advanced Systems & Innovation,,Mission Critical,209081651.88,405000.0
+PROJECT_0301,,,,Burlington,TX,Advanced Systems & Innovation,,Mission Critical,554979958.0,50.0
+PROJECT_0019,Northwest,Bay Area,Silicon Valley,San Jose,CA,Corporate & Workplace,,Office,176682.0,21000.0
+PROJECT_0540,Northwest,Pacific Northwest,Seattle,Bothell,WA,Biomedical Facilities,,R&amp;D Building (Laboratories),28242.0,0.0
+PROJECT_0132,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,,Biopharm Manufacturing,31542517.0,30000.0
+PROJECT_0263,Central,Dallas FTW,Dallas FTW,Coppell,TX,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,3740317.96,12500.0
+PROJECT_0466,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,8532169.0,875000.0
+PROJECT_0024,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Clinical Infrastructure,,Outpatient Healthcare,21829491.0,311680.0
+PROJECT_0412,Southeast,Raleigh-Durham,Raleigh-Durham,Garner,NC,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,416000.0
+PROJECT_0541,Northwest,Pacific Northwest,Seattle,,,Biomedical Facilities,,R&amp;D Building (Laboratories),158941.0,230.0
+PROJECT_0063,Northwest,Sacramento,Sacramento,Vallejo,CA,Clinical Infrastructure,,Hospitals,80611.0,600.0
+PROJECT_0513,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1189235.0,
+PROJECT_0266,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,9856039.25,34003.0
+PROJECT_0500,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,,Mission Critical,2217710.0,20000.0
+PROJECT_0417,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Academic Institutions,AI-Private,Sports and Athletics,35600.0,55000.0
+PROJECT_0361,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,AI-Private,Other,5957334.0,14000.0
+PROJECT_0137,Southwest,SoCal,Newport Beach,Irvine,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),2335130.0,61000.0
+PROJECT_0173,Southwest,Arizona,Phoenix,Avondale,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,44901539.0,64406.0
+PROJECT_0150,Southwest,SoCal,Newport Beach,Irvine,CA,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,25769344.0,
+PROJECT_0089,Southwest,San Diego,San Diego,CA,CA,Clinical Infrastructure,BF-Biotech/Pharmaceutical,Office,7287710.0,156000.0
+PROJECT_0260,Central,Dallas FTW,Dallas FTW,Arlington,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3493338.69,138260.0
+PROJECT_0389,Southeast,South Florida,South Florida,Boca Raton,FL,Clinical Infrastructure,,Outpatient Healthcare,2703300.0,15000.0
+PROJECT_0468,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,CW-Developer,Office,2895095.0,19600.0
+PROJECT_0015,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Mission Critical,11584135.0,200000.0
+PROJECT_0507,Northeast,New Jersey,New Jersey,Branchburg,NJ,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,0.0,10000.0
+PROJECT_0255,Central,Houston,Houston,Houston,TX,Advanced Systems & Innovation,,Mission Critical,0.0,27000.0
+PROJECT_0150,Southwest,SoCal,Newport Beach,Irvine,CA,Advanced Systems & Innovation,,Mission Critical,5099176.0,
+PROJECT_0023,Northwest,Bay Area,Silicon Valley,,,Corporate & Workplace,,Office,17212.0,20000.0
+PROJECT_0297,,,Central (D3-R),Abilene,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,
+PROJECT_0541,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,,R&amp;D Building (Laboratories),145304.0,230.0
+PROJECT_0076,Northwest,Sacramento,Sacramento,Vacaville,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,50000.0
+PROJECT_0313,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,122086709.0,225000.0
+PROJECT_0339,Northeast,Richmond,Richmond,,,Clinical Infrastructure,,Hospitals,15379907.44,210000.0
+PROJECT_0083,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),73112.0,2000000.0
+PROJECT_0183,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,AI-Public,Hospitals,21925.0,
+PROJECT_0526,Northeast,Boston,Boston,Beverly,MA,Clinical Infrastructure,,Hospitals,149543.0,18373.0
+PROJECT_0357,Northeast,DC - Baltimore,Baltimore,Rockville,MD,Biomedical Facilities,,Office,205878.0,14000.0
+PROJECT_0549,Northwest,Pacific Northwest,Seattle,Bothell,WA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Office,482001.0,
+PROJECT_0295,Central,Dallas FTW,Dallas FTW,Irving,TX,Clinical Infrastructure,,Hospitals,3452914.0,21136.0
+PROJECT_0319,Northeast,DC - Baltimore,Washington DC,Herndon,VA,Advanced Systems & Innovation,,Mission Critical,29783173.0,406200.0
+PROJECT_0015,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Mission Critical,1542660.0,200000.0
+PROJECT_0132,Southwest,SoCal,Newport Beach,,,Biomedical Facilities,,Biopharm Manufacturing,6492404.0,30000.0
+PROJECT_0085,Southwest,San Diego,San Diego,Chula Vista,CA,Clinical Infrastructure,,Outpatient Healthcare,600458.0,60000.0
+PROJECT_0359,Northeast,DC - Baltimore,Baltimore,Westinster,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,7311262.0,20000.0
+PROJECT_0093,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Other,1006095.0,7000.0
+PROJECT_0513,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,,Mission Critical,704755.0,
+PROJECT_0299,,,Central (D3-R),Abilene,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,200.0
+PROJECT_0278,Central,Dallas FTW,Dallas FTW,,,,,,0.0,
+PROJECT_0076,Northwest,Sacramento,Sacramento,Vacaville,CA,Biomedical Facilities,,Biopharm Manufacturing,0.0,50000.0
+PROJECT_0162,Southwest,SoCal,Newport Beach,,,Other,,Other,0.0,3900.0
+PROJECT_0191,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,16500.0
+PROJECT_0435,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Other,1236608.46,7000.0
+PROJECT_0339,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,,Hospitals,1234100.0,210000.0
+PROJECT_0171,Southwest,Arizona,Phoenix,Mesa,AZ,Clinical Infrastructure,,Hospitals,0.0,15800.0
+PROJECT_0039,Northwest,Bay Area,Silicon Valley,Hayward,CA,Advanced Systems & Innovation,ASI-Internet & Telecom,Advanced Manufacturing,4977047.0,56000.0
+PROJECT_0430,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,12487654.0,300000.0
+PROJECT_0453,Southeast,Central Florida,Orlando,Orlando,FL,Other,OTH-Amusement & Theme Parks,Other,5141908.0,20000.0
+PROJECT_0231,Central,Austin,Austin,Spicewood,TX,Corporate & Workplace,CW-Hospitality,Hotel / Convention Center,166933980.0,248000.0
+PROJECT_0312,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,14521207.0,25000.0
+PROJECT_0507,Northeast,New Jersey,New Jersey,Branchburg,NJ,Advanced Systems & Innovation,,Mission Critical,0.0,10000.0
+PROJECT_0451,Southeast,Central Florida,Orlando,Orlando,FL,Other,,Sports and Athletics,8550192.0,44000.0
+PROJECT_0443,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Education/Classroom Space,20161.0,3000.0
+PROJECT_0467,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,,Mission Critical,0.0,175000.0
+PROJECT_0309,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,20641034.0,13.0
+PROJECT_0238,Central,Austin,Austin,Houston,TX,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,2842922.0,1200.0
+PROJECT_0012,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Hospitals,83792.0,0.0
+PROJECT_0489,Southeast,Nashville,Nashville,Nashville,TN,Clinical Infrastructure,,R&amp;D Building (Laboratories),1489008.0,5800.0
+PROJECT_0282,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Other,2053346.0,2600.0
+PROJECT_0382,Southeast,Atlanta,Atlanta,Social Circle,GA,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,85938654.12,405000.0
+PROJECT_0252,Central,Houston,Houston,Cypress,TX,Clinical Infrastructure,,Hospitals,1777205.0,128117.0
+PROJECT_0045,Northwest,Bay Area,Silicon Valley,San Mateo,WA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,178809.0,4000.0
+PROJECT_0089,Southwest,San Diego,San Diego,CA,CA,Clinical Infrastructure,CI-Healthcare Provider,Office,3380592.0,156000.0
+PROJECT_0131,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),204540.0,500.0
+PROJECT_0335,Northeast,Richmond,Richmond,Charlottesville,VA,Academic Institutions,AI-Public,Other,0.0,18800.0
+PROJECT_0383,Southeast,Atlanta,Atlanta,Atlanta,GA,Corporate & Workplace,,Office,758753.0,55000.0
+PROJECT_0196,Southwest,Arizona,Phoenix,Goodyear,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3190873.0,8071.0
+PROJECT_0322,Northeast,DC - Baltimore,Washington DC,Sterling,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,32.0
+PROJECT_0503,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,,Other,1226505.0,12000.0
+PROJECT_0324,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,7872938.0,
+PROJECT_0439,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Education/Classroom Space,607391.0,
+PROJECT_0430,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,0.0,300000.0
+PROJECT_0148,Southwest,SoCal,Newport Beach,Claremont,CA,Clinical Infrastructure,,Residential Care Facility,197288.0,1000.0
+PROJECT_0565,,,Denver (D8-B),Westminster,CO,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,250934.0,168000.0
+PROJECT_0500,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,15523352.49,20000.0
+PROJECT_0145,Southwest,SoCal,Newport Beach,Long Beach,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,185000.0
+PROJECT_0318,Northeast,DC - Baltimore,Washington DC,,,Academic Institutions,,Education/Classroom Space,129773.0,20000.0
+PROJECT_0201,Southwest,Arizona,Phoenix,Mesa,AZ,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,24341081.0,135000.0
+PROJECT_0272,Central,Dallas FTW,Dallas FTW,Fort Worth,TX,Clinical Infrastructure,,Hospitals,1678961.0,104000.0
+PROJECT_0080,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,,Hospitals,1200.0,10000.0
+PROJECT_0351,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,,Hospitals,0.0,76380.0
+PROJECT_0022,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,20239.0,770.0
+PROJECT_0166,Southwest,SoCal,Newport Beach,Long Beach,CA,Clinical Infrastructure,,Hospitals,232776.0,3400.0
+PROJECT_0331,Northeast,DC - Baltimore,Washington DC,Washington DC,DC,Corporate & Workplace,,Office,0.0,55671.0
+PROJECT_0436,Southeast,Central Florida,Tampa,Tampa,FL,Biomedical Facilities,,R&amp;D Building (Laboratories),2100960.0,50000.0
+PROJECT_0078,Northwest,Sacramento,Sacramento,Sacramento,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,4447445.0,40000.0
+PROJECT_0269,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,8400.0
+PROJECT_0379,Southeast,Atlanta,Atlanta,,,Academic Institutions,AI-Public,Education/Classroom Space,0.0,
+PROJECT_0421,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Warehouse / Distribution,0.0,
+PROJECT_0170,Southwest,Arizona,Phoenix,,,Advanced Systems & Innovation,,Mission Critical,8294492.0,500000.0
+PROJECT_0429,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,ASI-Developer,Mission Critical,5078131.0,
+PROJECT_0326,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,6935594.0,2.0
+PROJECT_0147,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Other,346754.0,
+PROJECT_0249,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,,Hospitals,583340.0,715.0
+PROJECT_0357,Northeast,DC - Baltimore,Baltimore,Rockville,MD,Biomedical Facilities,BF-Biotech/Pharmaceutical,Office,4024354.0,14000.0
+PROJECT_0373,Southeast,Atlanta,Atlanta,Atlanta,GA,Academic Institutions,,Education/Classroom Space,0.0,107902.0
+PROJECT_0435,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Other,3601499.0,7000.0
+PROJECT_0509,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,3737844.0,2000.0
+PROJECT_0048,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,10000.0
+PROJECT_0254,Central,Houston,Houston,Abilene,TX,Advanced Systems & Innovation,,Mission Critical,3022429.0,450000.0
+PROJECT_0363,Northeast,DC - Baltimore,Baltimore,Columbia,MD,Clinical Infrastructure,,Outpatient Healthcare,615312.0,5500.0
+PROJECT_0288,Central,Dallas FTW,Dallas FTW,Plano,TX,Advanced Systems & Innovation,,Mission Critical,242934.0,40000.0
+PROJECT_0347,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,CW-3rd Party CMs,Mission Critical,21666895.43,10000.0
+PROJECT_0358,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Biomedical Facilities,,Office,1500.0,2073.0
+PROJECT_0367,Northeast,DC - Baltimore,Baltimore,Glen Burnie,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,243745.0,650.0
+PROJECT_0562,,,Denver (D8-B),Denver,CO,Clinical Infrastructure,CI-Healthcare Provider,Office,2520740.28,5000.0
+PROJECT_0329,Northeast,DC - Baltimore,Washington DC,,,Corporate & Workplace,,Office,1633635.45,19147.0
+PROJECT_0566,,,,,,Corporate & Workplace,,Office,0.0,16700.0
+PROJECT_0141,Southwest,SoCal,Newport Beach,Walnut,CA,Other,OTH-Public-State & Municipal Agencies,Office,17844568.0,22000.0
+PROJECT_0383,Southeast,Atlanta,Atlanta,Atlanta,GA,Corporate & Workplace,CW-Developer,Office,65213.0,55000.0
+PROJECT_0543,Northwest,Pacific Northwest,Seattle,Seattle,WA,Corporate & Workplace,CW-Developer,R&amp;D Building (Laboratories),4030550.0,26187.0
+PROJECT_0092,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),5926.0,165000.0
+PROJECT_0074,Northwest,Sacramento,Sacramento,Modesto,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,37689499.0,182200.0
+PROJECT_0010,Northwest,Bay Area,Silicon Valley,Castro Valley,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,198296.0,1000.0
+PROJECT_0329,Northeast,DC - Baltimore,Washington DC,Washington,DC,Corporate & Workplace,,Office,0.0,19147.0
+PROJECT_0043,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Outpatient Healthcare,63675.0,2610.0
+PROJECT_0534,Northeast,Boston,Boston,,,Clinical Infrastructure,,Other,60257.0,30000.0
+PROJECT_0504,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,,Mission Critical,1864235.0,10000.0
+PROJECT_0266,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,,Hospitals,2589681.77,34003.0
+PROJECT_0095,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,2000.0
+PROJECT_0423,Southeast,Raleigh-Durham,Raleigh-Durham,Wilson,NC,Biomedical Facilities,,Biopharm Manufacturing,771782.0,
+PROJECT_0290,Central,Dallas FTW,Dallas FTW,Midlothian,TX,Advanced Systems & Innovation,,Mission Critical,64495681.39,
+PROJECT_0293,Central,Dallas FTW,Dallas FTW,Irving,TX,Clinical Infrastructure,,Hospitals,1281226.0,15700.0
+PROJECT_0392,Southeast,South Florida,South Florida,Boynton Beach,FL,Clinical Infrastructure,,Hospitals,2160470.03,1225.0
+PROJECT_0201,Southwest,Arizona,Phoenix,Mesa,AZ,Advanced Systems & Innovation,,Mission Critical,45658919.0,135000.0
+PROJECT_0372,Southeast,Atlanta,Atlanta,Atlanta,GA,Academic Institutions,,Education/Classroom Space,0.44,64700.0
+PROJECT_0033,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),14022.0,600.0
+PROJECT_0420,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Academic Institutions,,Education/Classroom Space,0.0,51000.0
+PROJECT_0333,Northeast,Richmond,Richmond,Sandston,VA,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,694437302.0,960000.0
+PROJECT_0024,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,145955066.0,311680.0
+PROJECT_0007,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),50658.0,2500.0
+PROJECT_0162,Southwest,SoCal,Newport Beach,San Marino,CA,Other,OTH-Cultural & Community,Other,1604903.0,3900.0
+PROJECT_0162,Southwest,SoCal,Newport Beach,San Marino,CA,Other,,Other,313097.0,3900.0
+PROJECT_0087,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),2151974.68,249000.0
+PROJECT_0537,Northwest,Pacific Northwest,Seattle,Quincy,WA,Advanced Systems & Innovation,,Mission Critical,20732198.0,200000.0
+PROJECT_0099,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),565000.0,450000.0
+PROJECT_0305,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,15650547.0,262256.0
+PROJECT_0043,Northwest,Bay Area,Silicon Valley,San Jose,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,0.0,2610.0
+PROJECT_0170,Southwest,Arizona,Phoenix,Goodyear,AZ,Advanced Systems & Innovation,,Mission Critical,0.0,500000.0
+PROJECT_0130,Southwest,SoCal,Newport Beach,Irvine,CA,Corporate & Workplace,OTH-Other,Mission Critical,12590164.76,45000.0
+PROJECT_0469,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,2449645.0,875000.0
+PROJECT_0437,Southeast,Central Florida,Tampa,Tampa,FL,Corporate & Workplace,,Office,15965499.0,189000.0
+PROJECT_0558,,,,Parker,CO,Clinical Infrastructure,,Hospitals,148347022.0,188000.0
+PROJECT_0106,Southwest,San Diego,San Diego,San Diego,CA,Corporate & Workplace,CW-3rd Party CMs,Retail,6037353.0,24000.0
+PROJECT_0226,Central,Austin,Austin,,,Clinical Infrastructure,,Hospitals,610371.0,113500.0
+PROJECT_0490,Southeast,Nashville,Nashville,Nashville,TN,Advanced Systems & Innovation,ASI-Developer,Mission Critical,55487650.0,102500.0
+PROJECT_0082,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,500000.0,640000.0
+PROJECT_0250,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,,Hospitals,1175254.0,11181.0
+PROJECT_0456,Southeast,Central Florida,Orlando,Lake Mary,FL,Corporate & Workplace,CW-Media & Entertainment,Other,3661506.0,19500.0
+PROJECT_0310,Northeast,DC - Baltimore,Washington DC,,,Clinical Infrastructure,,Hospitals,6598.2,9250.0
+PROJECT_0064,Northwest,Sacramento,Sacramento,Fairfield,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,1097156.0,500.0
+PROJECT_0123,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,500.0
+PROJECT_0422,Southeast,Raleigh-Durham,Raleigh-Durham,Clayton,NC,Biomedical Facilities,,Biopharm Manufacturing,0.0,60000.0
+PROJECT_0237,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,,Mission Critical,1137481.0,150000.0
+PROJECT_0564,,,,Louisville,CO,Biomedical Facilities,,Biopharm Manufacturing,412235.0,7854.0
+PROJECT_0442,Southeast,Central Florida,Tampa,Tampa,FL,Clinical Infrastructure,,Outpatient Healthcare,1978210.0,100000.0
+PROJECT_0141,Southwest,SoCal,Newport Beach,Walnut,CA,Other,,Office,1768200.0,22000.0
+PROJECT_0143,Southwest,SoCal,Newport Beach,Pasadena,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,172824.0,450.0
+PROJECT_0402,Southeast,South Florida,South Florida,Miami,FL,Other,OTH-Automotive/Transportation,Office,433918.0,10000.0
+PROJECT_0345,Northeast,Richmond,Richmond,Sandston,VA,Advanced Systems & Innovation,,,2598620.0,53.0
+PROJECT_0396,Southeast,South Florida,South Florida,Miami,FL,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Office,7574992.0,25769.0
+PROJECT_0251,Central,Austin,Austin,Pflugerville,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,157957.0,815.0
+PROJECT_0013,Northwest,Bay Area,Silicon Valley,Antioch,CA,Clinical Infrastructure,,Hospitals,48004.0,0.0
+PROJECT_0421,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Warehouse / Distribution,941046.0,
+PROJECT_0232,Central,Austin,Austin,Hutto,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,89198321.0,450000.0
+PROJECT_0519,Northeast,Boston,Boston,S. Weymouth,MA,Clinical Infrastructure,,Hospitals,444568.0,10300.0
+PROJECT_0305,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,164066363.0,262256.0
+PROJECT_0568,,,,Lakewood,CO,Clinical Infrastructure,,Outpatient Healthcare,581027.0,
+PROJECT_0267,Central,Dallas FTW,Dallas FTW,Dallas,TX,Advanced Systems & Innovation,,Mission Critical,10164488.12,222213.0
+PROJECT_0011,Northwest,Bay Area,Silicon Valley,San Leandro,CA,Clinical Infrastructure,,Hospitals,48004.0,0.0
+PROJECT_0510,Northeast,New Jersey,New Jersey,Piscataway,NJ,Advanced Systems & Innovation,,Mission Critical,19273922.0,30.0
+PROJECT_0492,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,195093.0,500.0
+PROJECT_0241,Central,Austin,Austin,Lakeway,TX,Clinical Infrastructure,,Hospitals,0.0,6000.0
+PROJECT_0073,Northwest,Sacramento,Sacramento,Fair Oaks,CA,Other,OTH-Energy Provider,Office,2620000.0,7200.0
+PROJECT_0131,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),137784.0,500.0
+PROJECT_0385,Southeast,Atlanta,Atlanta,Norcross,GA,Biomedical Facilities,BF-Medical Device,R&amp;D Building (Laboratories),630000.0,
+PROJECT_0205,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2503023.0,500.0
+PROJECT_0093,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,155000.0,7000.0
+PROJECT_0350,Northeast,Richmond,Richmond,Petersburg,VA,Biomedical Facilities,,Biopharm Manufacturing,339868.0,0.0
+PROJECT_0250,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6828350.0,11181.0
+PROJECT_0355,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,,Education/Classroom Space,38755.0,11300.0
+PROJECT_0356,Northeast,DC - Baltimore,Baltimore,Frederick,MD,Biomedical Facilities,,Biopharm Manufacturing,55841167.0,20000.0
+PROJECT_0245,Central,Austin,Austin,Denver,CO,Advanced Systems & Innovation,,Mission Critical,8016298.0,48.0
+PROJECT_0040,Northwest,Bay Area,Silicon Valley,Foster City,CA,Advanced Systems & Innovation,,Advanced Manufacturing,0.0,200000.0
+PROJECT_0422,Southeast,Raleigh-Durham,Raleigh-Durham,,,Biomedical Facilities,,Biopharm Manufacturing,2462234.0,60000.0
+PROJECT_0337,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,,Mission Critical,31942857.73,150000.0
+PROJECT_0267,Central,Dallas FTW,Dallas FTW,Dallas,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,123759230.99,222213.0
+PROJECT_0229,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,,Hospitals,947286.0,409389.0
+PROJECT_0354,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,,Hospitals,837274.0,25000.0
+PROJECT_0550,Northwest,Pacific Northwest,Seattle,Redmond,WA,Other,,Office,216319.0,15000.0
+PROJECT_0269,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,,Hospitals,150249.0,8400.0
+PROJECT_0363,Northeast,DC - Baltimore,Baltimore,Columbia,MD,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,2747156.0,5500.0
+PROJECT_0106,Southwest,San Diego,San Diego,San Diego,CA,Corporate & Workplace,,Retail,653325.0,24000.0
+PROJECT_0401,Southeast,South Florida,South Florida,Deerfield Beach,FL,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,0.0,114000.0
+PROJECT_0565,,,,Westminster,CO,Clinical Infrastructure,,Outpatient Healthcare,111522.0,168000.0
+PROJECT_0532,Northeast,Boston,Boston,,,Academic Institutions,,Sports and Athletics,160000.0,190000.0
+PROJECT_0117,Southwest,San Diego,San Diego,La Mesa,CA,Clinical Infrastructure,,Hospitals,0.0,350000.0
+PROJECT_0316,Northeast,DC - Baltimore,Washington DC,,,Advanced Systems & Innovation,,Mission Critical,17550930.0,20.0
+PROJECT_0268,Central,Dallas FTW,Dallas FTW,Coppell,TX,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,311626.0,18000.0
+PROJECT_0279,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,,Mission Critical,0.0,5000.0
+PROJECT_0029,Northwest,Bay Area,Silicon Valley,Foster City,CA,Other,OTH-Automotive/Transportation,Advanced Manufacturing,389025.0,880.0
+PROJECT_0086,Southwest,San Diego,San Diego,,CA,Biomedical Facilities,,Other,8243284.0,1046120.0
+PROJECT_0279,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,665831.0,5000.0
+PROJECT_0280,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,70154014.56,127051.0
+PROJECT_0154,Southwest,SoCal,Newport Beach,Pasadena,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),492000.0,
+PROJECT_0340,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,337878433.0,150000.0
+PROJECT_0520,Northeast,Boston,Boston,,,Clinical Infrastructure,,Outpatient Healthcare,159727.0,45000.0
+PROJECT_0188,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,316665.0,60380.0
+PROJECT_0090,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),320000.0,385000.0
+PROJECT_0010,Northwest,Bay Area,Silicon Valley,Castro Valley,CA,Clinical Infrastructure,,Hospitals,0.0,1000.0
+PROJECT_0550,Northwest,Pacific Northwest,Seattle,Redmond,WA,Other,OTH-Retail,Office,779256.0,15000.0
+PROJECT_0561,,,Denver (D8-B),Denver,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,14800.0
+PROJECT_0004,Northwest,Bay Area,Silicon Valley,Castro Valley,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,461782.0,3000.0
+PROJECT_0157,Southwest,SoCal,Newport Beach,Los Angeles,CA,,CI-Healthcare Provider,,332133.97,
+PROJECT_0342,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,CW-3rd Party CMs,Mission Critical,7933874.38,5000.0
+PROJECT_0199,Southwest,Arizona,Phoenix,Phoenix,AZ,Corporate & Workplace,CW-Professional Services,Office,20112101.0,110000.0
+PROJECT_0198,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,855246.0,750.0
+PROJECT_0467,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,442014.07,175000.0
+PROJECT_0017,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Advanced Systems & Innovation,ASI-Internet & Telecom,Office,0.0,583000.0
+PROJECT_0547,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,,R&amp;D Building (Laboratories),1104512.0,20000.0
+PROJECT_0034,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Mission Critical,3492556.0,40000.0
+PROJECT_0145,Southwest,SoCal,Newport Beach,Long Beach,CA,Clinical Infrastructure,,Hospitals,0.0,185000.0
+PROJECT_0546,Northwest,Pacific Northwest,Seattle,Redmond,WA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,2030.0
+PROJECT_0167,Southwest,SoCal,Newport Beach,Los Angeles,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,144684.0
+PROJECT_0271,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,,Mission Critical,544968.0,0.0
+PROJECT_0391,Southeast,South Florida,South Florida,Deerfield Beach,FL,Clinical Infrastructure,,Hospitals,2455827.0,25000.0
+PROJECT_0415,Southeast,Raleigh-Durham,Raleigh-Durham,Sanford,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,1582115.0,7500.0
+PROJECT_0074,Northwest,Sacramento,Sacramento,,,Clinical Infrastructure,,Outpatient Healthcare,6164661.0,182200.0
+PROJECT_0193,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1504868.0,1500.0
+PROJECT_0220,Southwest,Arizona,Tucson,Tucson,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,4053.0
+PROJECT_0115,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,,Outpatient Healthcare,0.0,3000.0
+PROJECT_0331,Northeast,DC - Baltimore,Washington DC,,,Corporate & Workplace,,Office,3478879.0,55671.0
+PROJECT_0491,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,515247.0,11500.0
+PROJECT_0369,,,,Fogelsville,PA,Biomedical Facilities,,Biopharm Manufacturing,0.0,
+PROJECT_0486,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,42950650.0,277000.0
+PROJECT_0397,Southeast,South Florida,South Florida,Coral Gables,FL,Academic Institutions,AI-Private,Sports and Athletics,27444674.0,54300.0
+PROJECT_0354,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6631713.0,25000.0
+PROJECT_0527,Northeast,Boston,Boston,Westborough,MA,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Office,3053779.0,10000.0
+PROJECT_0057,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Corporate & Workplace,CW-Professional Services,Office,522410.0,200000.0
+PROJECT_0366,Northeast,DC - Baltimore,Baltimore,Glen Burnie,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,284958.0,650.0
+PROJECT_0213,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,5785.0
+PROJECT_0291,Central,Dallas FTW,Dallas FTW,Carrollton,TX,Biomedical Facilities,,R&amp;D Building (Laboratories),112218.0,
+PROJECT_0025,Northwest,Bay Area,Silicon Valley,Berkeley,CA,Biomedical Facilities,,Biopharm Manufacturing,0.0,2000.0
+PROJECT_0318,Northeast,DC - Baltimore,Washington DC,Washington,DC,Academic Institutions,AI-Private,Education/Classroom Space,1839863.0,20000.0
+PROJECT_0400,Southeast,South Florida,South Florida,Miami Beach,FL,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,1954281.0,6994.0
+PROJECT_0465,Southeast,Charlotte-Greenville,Charlotte,,,Academic Institutions,,Education/Classroom Space,391130.0,105000.0
+PROJECT_0253,Central,Houston,Houston,Houston,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,37000.0
+PROJECT_0525,Northeast,Boston,Boston,Boston,MA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,1736647.0,6600.0
+PROJECT_0355,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,AI-Public,Education/Classroom Space,3786999.0,11300.0
+PROJECT_0483,Southeast,Charlotte-Greenville,Greenville,Aiken,SC,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,0.0,700000.0
+PROJECT_0375,Southeast,Atlanta,Atlanta,Lithia Springs,GA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2154861.0,170000.0
+PROJECT_0164,Southwest,SoCal,Newport Beach,Van Nuys,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,11423.0
+PROJECT_0045,Northwest,Bay Area,Silicon Valley,San Mateo,WA,Clinical Infrastructure,,Hospitals,0.0,4000.0
+PROJECT_0315,Northeast,DC - Baltimore,Washington DC,Chantilly,VA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,18917333.0,30000.0
+PROJECT_0272,Central,Dallas FTW,Dallas FTW,Fort Worth,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,26207893.0,104000.0
+PROJECT_0067,Northwest,Sacramento,Sacramento,Santa Rosa,CA,Clinical Infrastructure,,Hospitals,48004.0,0.0
+PROJECT_0247,Central,Austin,Austin,Lakeway,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,902569.0,
+PROJECT_0284,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1089797.0,25000.0
+PROJECT_0041,Northwest,Bay Area,Silicon Valley,San Rafael,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),71609.0,
+PROJECT_0009,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Mission Critical,438184.0,50000.0
+PROJECT_0386,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1358963.0,1200.0
+PROJECT_0505,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,2277793.0,5000.0
+PROJECT_0329,Northeast,DC - Baltimore,Washington DC,Washington,DC,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,1716585.72,19147.0
+PROJECT_0040,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Advanced Manufacturing,51137.0,200000.0
+PROJECT_0075,Northwest,Sacramento,Sacramento,Sacramento,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2329778.0,1500.0
+PROJECT_0132,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,7012654.0,30000.0
+PROJECT_0157,Southwest,SoCal,Newport Beach,,,,,,0.0,
+PROJECT_0083,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,CI-Healthcare Provider,R&amp;D Building (Laboratories),126507.0,2000000.0
+PROJECT_0051,Northwest,Bay Area,Silicon Valley,,,Biomedical Facilities,,R&amp;D Building (Laboratories),148700.0,3300.0
+PROJECT_0230,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,,Advanced Manufacturing,1953335.0,5000.0
+PROJECT_0472,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,,Office,7500.0,30000.0
+PROJECT_0522,Northeast,Boston,Boston,Cambridge,MA,Academic Institutions,AI-Private,Education/Classroom Space,0.0,6900.0
+PROJECT_0236,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,ASI-Developer,Other,15038330.0,5892.0
+PROJECT_0070,Northwest,Sacramento,Sacramento,Chico,CA,Academic Institutions,AI-Public,Education/Classroom Space,36123236.0,30000.0
+PROJECT_0212,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,75000.0
+PROJECT_0534,Northeast,Boston,Boston,Waltham,MA,Clinical Infrastructure,CI-Healthcare Provider,Other,0.0,30000.0
+PROJECT_0107,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,11726457.0,10000.0
+PROJECT_0410,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,359312250.0,214000.0
+PROJECT_0169,Southwest,Arizona,Phoenix,Mesa,AZ,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,1407317522.0,1400000.0
+PROJECT_0520,Northeast,Boston,Boston,Southborough,MA,Clinical Infrastructure,CI-Developer,Outpatient Healthcare,8556655.0,45000.0
+PROJECT_0087,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),48106.0,249000.0
+PROJECT_0083,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,2000000.0
+PROJECT_0377,Southeast,Atlanta,Atlanta,Sandy Springs,GA,Corporate & Workplace,,Office,835109.0,15000.0
+PROJECT_0155,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,ASI-Defense & Aerospace,Advanced Manufacturing,0.0,250000.0
+PROJECT_0397,Southeast,South Florida,South Florida,Coral Gables,FL,Academic Institutions,,Sports and Athletics,2935000.0,54300.0
+PROJECT_0539,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,,R&amp;D Building (Laboratories),142755.0,
+PROJECT_0285,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,CW-Developer,Office,203544.0,290000.0
+PROJECT_0127,Southwest,SoCal,Newport Beach,Wildomar,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,247387802.46,235000.0
+PROJECT_0307,Northeast,DC - Baltimore,Washington DC,ASHBURN,VA,Advanced Systems & Innovation,,Mission Critical,34230589.0,330800.0
+PROJECT_0353,Northeast,DC - Baltimore,Baltimore,Towson,MD,Academic Institutions,AI-Public,Education/Classroom Space,0.0,125000.0
+PROJECT_0041,Northwest,Bay Area,Silicon Valley,,,Biomedical Facilities,,R&amp;D Building (Laboratories),3569802.0,
+PROJECT_0375,Southeast,Atlanta,Atlanta,Lithia Springs,GA,Advanced Systems & Innovation,,Mission Critical,49606386.0,170000.0
+PROJECT_0008,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Clinical Infrastructure,,Outpatient Healthcare,209819543.0,243000.0
+PROJECT_0409,Southeast,Raleigh-Durham,Raleigh-Durham,Raleigh,NC,Academic Institutions,,Hospitals,0.0,100000.0
+PROJECT_0543,Northwest,Pacific Northwest,Seattle,Seattle,WA,Corporate & Workplace,,R&amp;D Building (Laboratories),386641.0,26187.0
+PROJECT_0323,Northeast,DC - Baltimore,Washington DC,Fredericksburg,VA,Advanced Systems & Innovation,,Mission Critical,4600007.0,85.0
+PROJECT_0092,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),207924.0,165000.0
+PROJECT_0143,Southwest,SoCal,Newport Beach,Pasadena,CA,Clinical Infrastructure,,Outpatient Healthcare,156232.0,450.0
+PROJECT_0245,Central,Austin,Austin,Denver,CO,Advanced Systems & Innovation,ASI-Developer,Mission Critical,137072881.0,48.0
+PROJECT_0414,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Bio-Agricultural/Food Science,R&amp;D Building (Laboratories),2888968.0,4622.0
+PROJECT_0104,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,10513307.0,150000.0
+PROJECT_0378,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,,Hospitals,958078.0,14000.0
+PROJECT_0501,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,,Biopharm Manufacturing,2890719.5,10000.0
+PROJECT_0368,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,,Hospitals,566911.0,10000.0
+PROJECT_0399,Southeast,South Florida,South Florida,Kendall,FL,Clinical Infrastructure,,Hospitals,450000.0,400000.0
+PROJECT_0166,Southwest,SoCal,Newport Beach,Long Beach,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1135815.0,3400.0
+PROJECT_0548,Northwest,Pacific Northwest,Seattle,,,Clinical Infrastructure,,Outpatient Healthcare,1035625.99,160000.0
+PROJECT_0421,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,,Biomedical Facilities,,Warehouse / Distribution,554416.0,
+PROJECT_0135,Southwest,SoCal,Newport Beach,,,Corporate & Workplace,,Other,382075.0,
+PROJECT_0065,Northwest,Sacramento,Sacramento,Fairfield,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,1372406.0,600.0
+PROJECT_0308,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,3996215.0,4.0
+PROJECT_0286,Central,Dallas FTW,Dallas FTW,Westlake,TX,Corporate & Workplace,,Office,99955.0,9000.0
+PROJECT_0398,Southeast,South Florida,South Florida,Miami,FL,Academic Institutions,,Education/Classroom Space,0.0,5066.0
+PROJECT_0217,Southwest,Arizona,Tucson,Tucson,AZ,Academic Institutions,AI-Public,Other,47793082.0,59000.0
+PROJECT_0096,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),51000.0,43530.0
+PROJECT_0423,Southeast,Raleigh-Durham,Raleigh-Durham,Wilson,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,168600.0,
+PROJECT_0374,Southeast,Atlanta,Atlanta,Atlanta,GA,Advanced Systems & Innovation,,Mission Critical,2258403.0,10000.0
+PROJECT_0119,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),428495.0,50000.0
+PROJECT_0444,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Education/Classroom Space,743866.0,8500.0
+PROJECT_0088,Southwest,San Diego,San Diego,San Marcos,CA,Academic Institutions,AI-Public,Office,10244664.0,155000.0
+PROJECT_0373,Southeast,Atlanta,Atlanta,Atlanta,GA,Academic Institutions,AI-Public,Education/Classroom Space,65030213.0,107902.0
+PROJECT_0055,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Corporate & Workplace,CW-3rd Party CMs,Office,106948.0,300000.0
+PROJECT_0189,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,79770.0,6040.0
+PROJECT_0179,Southwest,Arizona,Phoenix,Scottsdale,AZ,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,5402954.0,30725.0
+PROJECT_0320,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,343003.0
+PROJECT_0118,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),30000.0,
+PROJECT_0364,Northeast,DC - Baltimore,Baltimore,Towson,MD,Clinical Infrastructure,,Hospitals,337925.0,75000.0
+PROJECT_0321,Northeast,DC - Baltimore,Washington DC,Dulles,VA,Advanced Systems & Innovation,,Mission Critical,5753108.0,24.0
+PROJECT_0273,Central,Dallas FTW,Dallas FTW,Denton,TX,Clinical Infrastructure,,Hospitals,2122109.0,1100.0
+PROJECT_0111,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,Other,536575.0,2850.0
+PROJECT_0037,Northwest,Bay Area,Silicon Valley,Oakland,CA,Corporate & Workplace,CW-Professional Services,Office,1385617.0,20000.0
+PROJECT_0285,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,,Office,0.0,290000.0
+PROJECT_0465,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Academic Institutions,,Education/Classroom Space,0.0,105000.0
+PROJECT_0187,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,7150783.0,5100.0
+PROJECT_0452,Southeast,Central Florida,Orlando,Lake Buena Vista,FL,Corporate & Workplace,,Hotel / Convention Center,1296460.0,21000.0
+PROJECT_0202,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1754476.0,
+PROJECT_0253,Central,Houston,Houston,Houston,TX,Clinical Infrastructure,,Hospitals,210178.0,37000.0
+PROJECT_0319,Northeast,DC - Baltimore,Washington DC,Herndon,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,158299834.0,406200.0
+PROJECT_0386,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,,Hospitals,0.0,1200.0
+PROJECT_0459,Southeast,Central Florida,Orlando,Groveland,FL,Other,OTH-Energy Provider,Warehouse / Distribution,0.0,68195.0
+PROJECT_0028,Northwest,Bay Area,Silicon Valley,Petaluma,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),5036540.0,7000.0
+PROJECT_0258,Central,Houston,Houston,Houston,TX,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,798237.0,650.0
+PROJECT_0121,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),0.0,500.0
+PROJECT_0021,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),130160.0,85000.0
+PROJECT_0412,Southeast,Raleigh-Durham,Raleigh-Durham,Garner,NC,Clinical Infrastructure,,Hospitals,9878640.43,416000.0
+PROJECT_0168,Southwest,SoCal,Newport Beach,Anaheim,CA,Corporate & Workplace,CW-Professional Services,Warehouse / Distribution,274208.0,20000.0
+PROJECT_0094,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),160000.0,99645.0
+PROJECT_0271,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2407762.0,0.0
+PROJECT_0300,,,Dallas (D3-C),Rayville,LA,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,1130737.0,2088000.0
+PROJECT_0492,Southeast,Nashville,Nashville,,,Clinical Infrastructure,,Hospitals,104637.0,500.0
+PROJECT_0332,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,0.0,10000.0
+PROJECT_0233,Central,Austin,Austin,Del Valle,TX,Other,OTH-Other,Other,76822316.0,22.0
+PROJECT_0463,Southeast,Central Florida,Orlando,Altamonte Springs,FL,Clinical Infrastructure,,Hospitals,1203142.0,7000.0
+PROJECT_0388,Southeast,Atlanta,Atlanta,Rome,GA,Clinical Infrastructure,,Hospitals,93310.0,385.0
+PROJECT_0232,Central,Austin,Austin,Hutto,TX,Advanced Systems & Innovation,,Mission Critical,4516204.0,450000.0
+PROJECT_0339,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,155742464.56,210000.0
+PROJECT_0286,Central,Dallas FTW,Dallas FTW,Westlake,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,829989.0,9000.0
+PROJECT_0256,Central,Houston,Houston,Houston,TX,Biomedical Facilities,,Biopharm Manufacturing,622413.0,70000.0
+PROJECT_0002,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Corporate & Workplace,,Office,35882263.0,400000.0
+PROJECT_0053,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Other,,Sports and Athletics,0.0,4000.0
+PROJECT_0463,Southeast,Central Florida,Orlando,Altamonte Springs,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2988645.0,7000.0
+PROJECT_0203,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,R&amp;D Building (Laboratories),574123.0,150000.0
+PROJECT_0331,Northeast,DC - Baltimore,Washington DC,Washington DC,DC,Corporate & Workplace,CW-Developer,Office,2214828.0,55671.0
+PROJECT_0486,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,,Office,1971997.0,277000.0
+PROJECT_0529,Northeast,Boston,Boston,Foxboro,MA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,701634.0,1100.0
+PROJECT_0438,Southeast,Central Florida,Tampa,Tampa,FL,Other,,Education/Classroom Space,0.0,6000.0
+PROJECT_0556,,,Denver (D8-B),Denver,CO,Advanced Systems & Innovation,ASI-Developer,Mission Critical,98171655.0,189000.0
+PROJECT_0127,Southwest,SoCal,Newport Beach,Wildomar,CA,Clinical Infrastructure,,Hospitals,0.0,235000.0
+PROJECT_0380,Southeast,Atlanta,Atlanta,Alpharetta,GA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),1693506.0,5000.0
+PROJECT_0066,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,821259.0,500.0
+PROJECT_0274,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,22819729.0,106613.0
+PROJECT_0417,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Academic Institutions,AI-Public,Sports and Athletics,0.0,55000.0
+PROJECT_0109,Southwest,San Diego,San Diego,Encinitas,CA,Clinical Infrastructure,,Hospitals,1272619.0,34000.0
+PROJECT_0144,Southwest,SoCal,Newport Beach,Northridge,CA,Academic Institutions,AI-Public,Education/Classroom Space,46835341.0,40000.0
+PROJECT_0077,Northwest,Sacramento,Sacramento,Lodi,CA,Biomedical Facilities,BF-Medical Device,Biopharm Manufacturing,13942854.18,170000.0
+PROJECT_0519,Northeast,Boston,Boston,S. Weymouth,MA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3389991.0,10300.0
+PROJECT_0052,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Internet & Telecom,Office,2505610.0,20000.0
+PROJECT_0095,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Research & Development/Science & Technology,R&amp;D Building (Laboratories),2539120.0,2000.0
+PROJECT_0480,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,CW-3rd Party CMs,Office,407986.0,3900.0
+PROJECT_0052,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Office,0.0,20000.0
+PROJECT_0327,Northeast,DC - Baltimore,Washington DC,Washington,DC,Advanced Systems & Innovation,ASI-Defense & Aerospace,Office,2044959.0,
+PROJECT_0244,Central,Austin,Austin,Austin,TX,Corporate & Workplace,CW-Developer,Office,3097775.0,55000.0
+PROJECT_0275,Central,Dallas FTW,Dallas FTW,Southlake,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,9772055.06,0.0
+PROJECT_0240,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,ASI-Enterprise Technologies,Office,0.0,100000.0
+PROJECT_0051,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),30000.0,3300.0
+PROJECT_0548,Northwest,Pacific Northwest,Seattle,Bellevue,WA,Clinical Infrastructure,,Outpatient Healthcare,0.0,160000.0
+PROJECT_0422,Southeast,Raleigh-Durham,Raleigh-Durham,Clayton,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,4834876.0,60000.0
+PROJECT_0490,Southeast,Nashville,Nashville,,,Advanced Systems & Innovation,,Mission Critical,301372.0,102500.0
+PROJECT_0377,Southeast,Atlanta,Atlanta,Sandy Springs,GA,Corporate & Workplace,CW-Developer,Office,4447217.0,15000.0
+PROJECT_0170,Southwest,Arizona,Phoenix,Goodyear,AZ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,37905289.54,500000.0
+PROJECT_0431,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,600.0
+PROJECT_0362,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Corporate & Workplace,CW-Developer,Office,1183234.0,28590.0
+PROJECT_0309,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,13.0
+PROJECT_0219,Southwest,Arizona,Tucson,Tucson,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1702000.0,7112.0
+PROJECT_0532,Northeast,Boston,Boston,Storrs,CT,Academic Institutions,,Sports and Athletics,0.0,190000.0
+PROJECT_0049,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,BF-Medical Device,R&amp;D Building (Laboratories),0.0,15000.0
+PROJECT_0229,Central,Austin,Austin,Austin,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,40964313.0,409389.0
+PROJECT_0306,Northeast,DC - Baltimore,Washington DC,Alexandria,VA,Clinical Infrastructure,,Hospitals,693570384.0,1063821.0
+PROJECT_0395,Southeast,South Florida,South Florida,Palm Beach Gardens,FL,Other,,Office,276631805.0,240000.0
+PROJECT_0091,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),10238388.0,4200.0
+PROJECT_0541,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),206555.0,230.0
+PROJECT_0299,,,,Abilene,TX,Advanced Systems & Innovation,,Mission Critical,1004872459.0,200.0
+PROJECT_0426,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,2017323.0,10000.0
+PROJECT_0113,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,0.0,720.0
+PROJECT_0076,Northwest,Sacramento,Sacramento,,,Biomedical Facilities,,Biopharm Manufacturing,195944.45,50000.0
+PROJECT_0390,Southeast,South Florida,South Florida,,,Advanced Systems & Innovation,,Mission Critical,5535306.0,200000.0
+PROJECT_0236,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,,Other,4204007.0,5892.0
+PROJECT_0352,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,,R&amp;D Building (Laboratories),41547331.0,554000.0
+PROJECT_0400,Southeast,South Florida,South Florida,Miami Beach,FL,Corporate & Workplace,,Office,239096.0,6994.0
+PROJECT_0445,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Education/Classroom Space,7886.0,192.0
+PROJECT_0284,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,,Hospitals,105853.0,25000.0
+PROJECT_0151,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,,Mission Critical,2154123.0,113606.0
+PROJECT_0563,,,Denver (D8-B),Englewood,CO,Clinical Infrastructure,CI-Healthcare Provider,Other,3068218.0,43.0
+PROJECT_0514,Northeast,New Jersey,New Jersey,Levittown,PA,Corporate & Workplace,,Mission Critical,2653131.0,
+PROJECT_0234,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,,Advanced Manufacturing,2697945.0,112000.0
+PROJECT_0516,Northeast,Boston,Boston,Cambridge,MA,Biomedical Facilities,,R&amp;D Building (Laboratories),19861446.0,144000.0
+PROJECT_0259,Central,Dallas FTW,Dallas FTW,Plano,TX,Corporate & Workplace,CW-Developer,Office,113781.0,1256529.0
+PROJECT_0007,Northwest,Bay Area,Silicon Valley,,,Biomedical Facilities,,R&amp;D Building (Laboratories),6948266.0,2500.0
+PROJECT_0062,Northwest,Sacramento,Sacramento,San Rafael,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6011279.35,60000.0
+PROJECT_0552,,,,Colorado Springs,CO,Advanced Systems & Innovation,,Mission Critical,112781.0,6000.0
+PROJECT_0005,Northwest,Bay Area,Silicon Valley,Palo Alto,CA,Corporate & Workplace,,Office,35554665.0,191836.0
+PROJECT_0364,Northeast,DC - Baltimore,Baltimore,Towson,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1628230.0,75000.0
+PROJECT_0315,Northeast,DC - Baltimore,Washington DC,Chantilly,VA,Biomedical Facilities,,Biopharm Manufacturing,1925376.0,30000.0
+PROJECT_0448,Southeast,Central Florida,Orlando,St. Augustine,FL,Academic Institutions,,Education/Classroom Space,1478629.0,46560.0
+PROJECT_0183,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,BF-Research & Development/Science & Technology,Hospitals,0.0,
+PROJECT_0264,Central,Dallas FTW,Dallas FTW,Roanoke,TX,Corporate & Workplace,,Mission Critical,2233984.99,251349.0
+PROJECT_0174,Southwest,Arizona,Phoenix,Goodyear,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2454742.0,1200.0
+PROJECT_0255,Central,Houston,Houston,Houston,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,27076119.0,27000.0
+PROJECT_0458,Southeast,Central Florida,Orlando,Sumterville,FL,Other,,Office,75000.0,192750.0
+PROJECT_0184,Southwest,Arizona,Phoenix,Queen Creek,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2900093.73,500.0
+PROJECT_0043,Northwest,Bay Area,Silicon Valley,San Jose,CA,Clinical Infrastructure,,Outpatient Healthcare,0.0,2610.0
+PROJECT_0006,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Clinical Infrastructure,,Hospitals,4003341.0,4000.0
+PROJECT_0458,Southeast,Central Florida,Orlando,Sumterville,FL,Other,OTH-Energy Provider,Office,0.0,192750.0
+PROJECT_0259,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,,Office,131587290.0,1256529.0
+PROJECT_0129,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,19806504.0,7000.0
+PROJECT_0344,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,14346616.16,22000.0
+PROJECT_0183,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,
+PROJECT_0192,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,107954.0,15150.0
+PROJECT_0456,Southeast,Central Florida,Orlando,Lake Mary,FL,Corporate & Workplace,,Other,274824.0,19500.0
+PROJECT_0066,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,,Hospitals,7500.0,500.0
+PROJECT_0282,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,,Other,235268.0,2600.0
+PROJECT_0388,Southeast,Atlanta,Atlanta,Rome,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,309885.0,385.0
+PROJECT_0556,,,,Denver,CO,Advanced Systems & Innovation,,Mission Critical,10573278.0,189000.0
+PROJECT_0142,Southwest,SoCal,Newport Beach,Irvine,CA,Corporate & Workplace,,Office,1125482.0,25199.0
+PROJECT_0449,Southeast,Central Florida,Orlando,,,Academic Institutions,,Education/Classroom Space,200000.0,90000.0
+PROJECT_0222,Central,Austin,Austin,Austin,TX,Corporate & Workplace,CW-Developer,Mixed Use,600054274.1,2500000.0
+PROJECT_0195,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2166319.0,2500.0
+PROJECT_0160,Southwest,SoCal,Newport Beach,Vernon,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,286350.0
+PROJECT_0403,Southeast,South Florida,South Florida,Fort Lauderdale,FL,Clinical Infrastructure,,Hospitals,525900.0,4863.0
+PROJECT_0007,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),538706.0,2500.0
+PROJECT_0246,Central,Austin,Austin,Pflugerville,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,256001.0,
+PROJECT_0261,Central,Dallas FTW,Dallas FTW,Fort Worth,TX,Clinical Infrastructure,,Other,-12717462.0,182152.0
+PROJECT_0136,Southwest,SoCal,Newport Beach,Fullerton,CA,Academic Institutions,,Education/Classroom Space,2929708.0,19500.0
+PROJECT_0307,Northeast,DC - Baltimore,Washington DC,ASHBURN,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,338812065.0,330800.0
+PROJECT_0138,Southwest,SoCal,Newport Beach,,,Other,,Other,100000.0,90000.0
+PROJECT_0155,Southwest,SoCal,Newport Beach,,,Advanced Systems & Innovation,,Advanced Manufacturing,709000.0,250000.0
+PROJECT_0181,Southwest,Arizona,Phoenix,Gilbert,AZ,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,970429.0,36000.0
+PROJECT_0449,Southeast,Central Florida,Orlando,Orlando,FL,Academic Institutions,AI-Public,Education/Classroom Space,447853.0,90000.0
+PROJECT_0101,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,445580.0,101000.0
+PROJECT_0002,Northwest,Bay Area,Silicon Valley,,,Corporate & Workplace,,Office,0.0,400000.0
+PROJECT_0433,Southeast,Central Florida,Tampa,St. Petersburg,FL,Clinical Infrastructure,,Hospitals,3159338.0,29000.0
+PROJECT_0096,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),316828.0,43530.0
+PROJECT_0312,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,1733290.0,25000.0
+PROJECT_0433,Southeast,Central Florida,Tampa,St. Petersburg,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,38944538.0,29000.0
+PROJECT_0037,Northwest,Bay Area,Silicon Valley,Oakland,CA,Corporate & Workplace,,Office,1000.0,20000.0
+PROJECT_0026,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Semiconductor,Office,0.0,
+PROJECT_0424,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,276699.0,10000.0
+PROJECT_0046,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,43168792.0,40000.0
+PROJECT_0100,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),58352.0,39000.0
+PROJECT_0342,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,,Mission Critical,0.0,5000.0
+PROJECT_0135,Southwest,SoCal,Newport Beach,Playa del Rey,CA,Corporate & Workplace,,Other,11341891.0,
+PROJECT_0040,Northwest,Bay Area,Silicon Valley,Foster City,CA,Advanced Systems & Innovation,ASI-Clean Technologies,Advanced Manufacturing,1884178.0,200000.0
+PROJECT_0494,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,,Office,457233.0,13000.0
+PROJECT_0497,Southeast,Nashville,Nashville,NASHVILLE,TN,Academic Institutions,AI-Private,Student Housing,18093130.0,80000.0
+PROJECT_0281,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,,Mission Critical,904629.0,300000.0
+PROJECT_0404,Southeast,South Florida,South Florida,Fort Lauderdale,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,906157.0,560.0
+PROJECT_0522,Northeast,Boston,Boston,Cambridge,MA,Academic Institutions,,Education/Classroom Space,0.0,6900.0
+PROJECT_0109,Southwest,San Diego,San Diego,Encinitas,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,34000.0
+PROJECT_0012,Northwest,Bay Area,Silicon Valley,Oakland,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,439907.0,0.0
+PROJECT_0530,Northeast,Boston,Boston,Boston,MA,Academic Institutions,AI-Private,Education/Classroom Space,2766058.0,51000.0
+PROJECT_0027,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,,Office,0.0,
+PROJECT_0409,Southeast,Raleigh-Durham,Raleigh-Durham,Raleigh,NC,Academic Institutions,AI-Public,Hospitals,3956456.0,100000.0
+PROJECT_0264,Central,Dallas FTW,Dallas FTW,Roanoke,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,25420570.19,251349.0
+PROJECT_0031,Northwest,Bay Area,Silicon Valley,San Carlos,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),1877932.0,2500.0
+PROJECT_0094,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),794174.0,99645.0
+PROJECT_0381,Southeast,Atlanta,Atlanta,Rome,GA,Clinical Infrastructure,,Hospitals,440555.0,11200.0
+PROJECT_0026,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Office,1614471.0,
+PROJECT_0015,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,14090449.71,200000.0
+PROJECT_0010,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Hospitals,9139288.0,1000.0
+PROJECT_0431,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,20000.0,600.0
+PROJECT_0034,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,40242690.0,40000.0
+PROJECT_0356,Northeast,DC - Baltimore,Baltimore,Frederick,MD,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,20000.0
+PROJECT_0103,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),4986.0,
+PROJECT_0040,Northwest,Bay Area,Silicon Valley,Hayward,CA,Advanced Systems & Innovation,ASI-Clean Technologies,Advanced Manufacturing,1627191.0,200000.0
+PROJECT_0148,Southwest,SoCal,Newport Beach,Claremont,CA,Clinical Infrastructure,CI-Residential Care,Residential Care Facility,463216.0,1000.0
+PROJECT_0517,Northeast,Boston,Boston,Wallingford,CT,Clinical Infrastructure,,Outpatient Healthcare,2216002.0,28245.0
+PROJECT_0291,Central,Dallas FTW,Dallas FTW,Carrollton,TX,Biomedical Facilities,BF-Medical Device,R&amp;D Building (Laboratories),588343.0,
+PROJECT_0381,Southeast,Atlanta,Atlanta,Rome,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,4767800.0,11200.0
+PROJECT_0536,Northeast,Boston,Boston,Boston,MA,Corporate & Workplace,CW-Developer,Office,4010804.0,9400.0
+PROJECT_0571,,,Denver (D8-B),Boulder,CO,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),38527.23,2100.0
+PROJECT_0411,Southeast,Raleigh-Durham,Raleigh-Durham,,,Biomedical Facilities,,Biopharm Manufacturing,4939811.0,0.0
+PROJECT_0103,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),543611.0,
+PROJECT_0496,Southeast,Nashville,Nashville,Gallatin,TN,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,17572017.0,36.0
+PROJECT_0544,Northwest,Pacific Northwest,Seattle,,,Clinical Infrastructure,,Outpatient Healthcare,1406613.0,1000.0
+PROJECT_0151,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,23901319.0,113606.0
+PROJECT_0346,Northeast,Richmond,Richmond,,VA,Corporate & Workplace,,Office,15953.0,192000.0
+PROJECT_0194,Southwest,Arizona,Phoenix,Buckeye,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,177677.0
+PROJECT_0226,Central,Austin,Austin,Pflugerville,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,113500.0
+PROJECT_0444,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,4716160.0,8500.0
+PROJECT_0395,Southeast,South Florida,South Florida,Palm Beach Gardens,FL,Other,OTH-Energy Provider,Office,25297665.0,240000.0
+PROJECT_0343,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,3146022.0,50000.0
+PROJECT_0512,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,,Biopharm Manufacturing,282179.0,21000.0
+PROJECT_0498,,,,Birmingham,AL,Advanced Systems & Innovation,,Mission Critical,0.0,300000.0
+PROJECT_0209,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,146342.0,500.0
+PROJECT_0161,Southwest,SoCal,Newport Beach,Tarzana,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,57000.0
+PROJECT_0026,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Office,0.0,
+PROJECT_0180,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1528329.0,800.0
+PROJECT_0403,Southeast,South Florida,South Florida,Fort Lauderdale,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2855289.0,4863.0
+PROJECT_0137,Southwest,SoCal,Newport Beach,Irvine,CA,Biomedical Facilities,BF-Research & Development/Science & Technology,R&amp;D Building (Laboratories),25632022.0,61000.0
+PROJECT_0023,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Corporate & Workplace,,Office,23740.0,20000.0
+PROJECT_0515,Northeast,Boston,Boston,Hartford,CT,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,205478774.28,212000.0
+PROJECT_0248,Central,Austin,Austin,Round Rock,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,9708770.0,21907.0
+PROJECT_0503,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,BF-Biotech/Pharmaceutical,Other,4267946.0,12000.0
+PROJECT_0227,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,,Mission Critical,0.0,293000.0
+PROJECT_0398,Southeast,South Florida,South Florida,Miami,FL,Academic Institutions,AI-Private,Education/Classroom Space,3183752.0,5066.0
+PROJECT_0235,Central,Austin,Austin,Abilene,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,65260689.0,948000.0
+PROJECT_0554,,,Colorado Springs (D8-A),Colorado Springs,CO,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,0.0,350.0
+PROJECT_0167,Southwest,SoCal,Newport Beach,Los Angeles,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),0.0,144684.0
+PROJECT_0013,Northwest,Bay Area,Silicon Valley,Antioch,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,808513.0,0.0
+PROJECT_0337,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,337513966.0,150000.0
+PROJECT_0484,Southeast,Charlotte-Greenville,Greenville,Greer,SC,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3340645.0,200000.0
+PROJECT_0011,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Hospitals,106680.0,0.0
+PROJECT_0292,Central,Dallas FTW,Dallas FTW,Southlake,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,7785405.0,7500000.0
+PROJECT_0114,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),2485644.0,
+PROJECT_0432,Southeast,Central Florida,Tampa,LUTZ,FL,Other,OTH-Energy Provider,Mission Critical,200317137.89,150000.0
+PROJECT_0144,Southwest,SoCal,Newport Beach,Northridge,CA,Academic Institutions,,Education/Classroom Space,5150612.0,40000.0
+PROJECT_0406,Southeast,Raleigh-Durham,Raleigh-Durham,Morrisville,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,131607214.0,196711.0
+PROJECT_0351,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,41885057.0,76380.0
+PROJECT_0020,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2146820.0,100000.0
+PROJECT_0455,Southeast,Central Florida,Orlando,Orlando,FL,Other,OTH-Amusement & Theme Parks,Other,5757130.0,30000.0
+PROJECT_0393,Southeast,South Florida,South Florida,,,Clinical Infrastructure,,Outpatient Healthcare,124575.0,30000.0
+PROJECT_0393,Southeast,South Florida,South Florida,Pembroke Pines,FL,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,35607454.14,30000.0
+PROJECT_0470,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Advanced Systems & Innovation,,Mission Critical,1626525.0,
+PROJECT_0502,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,,Mission Critical,1520761.0,35000.0
+PROJECT_0426,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,0.0,10000.0
+PROJECT_0405,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,191275053.0,118000.0
+PROJECT_0134,Southwest,SoCal,Newport Beach,Los Angeles,CA,Biomedical Facilities,,Biopharm Manufacturing,15514518.34,20000.0
+PROJECT_0473,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,,Mission Critical,0.0,875000.0
+PROJECT_0070,Northwest,Sacramento,Sacramento,Chico,CA,Academic Institutions,,Education/Classroom Space,6267433.0,30000.0
+PROJECT_0099,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),11715341.0,450000.0
+PROJECT_0083,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),746368.0,2000000.0
+PROJECT_0497,Southeast,Nashville,Nashville,NASHVILLE,TN,Academic Institutions,,Student Housing,2832853.0,80000.0
+PROJECT_0546,Northwest,Pacific Northwest,Seattle,Redmond,WA,Biomedical Facilities,,Biopharm Manufacturing,46210.0,2030.0
+PROJECT_0330,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,311000.0
+PROJECT_0374,Southeast,Atlanta,Atlanta,Atlanta,GA,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,8864122.0,10000.0
+PROJECT_0407,Southeast,Raleigh-Durham,Raleigh-Durham,Greenville,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,75018740.0,100000.0
+PROJECT_0557,,,Denver (D8-B),Boulder,CO,Advanced Systems & Innovation,ASI-Defense & Aerospace,Advanced Manufacturing,2789596.0,75000.0
+PROJECT_0090,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),39327440.0,385000.0
+PROJECT_0163,Southwest,SoCal,Newport Beach,Irvine,CA,Biomedical Facilities,,Office,322048.0,5000.0
+PROJECT_0459,Southeast,Central Florida,Orlando,Groveland,FL,Other,,Warehouse / Distribution,37500.0,68195.0
+PROJECT_0553,,,,Colorado Springs,CO,Advanced Systems & Innovation,,Mission Critical,95353.0,
+PROJECT_0222,Central,Austin,Austin,Austin,TX,Corporate & Workplace,,Mixed Use,0.0,2500000.0
+PROJECT_0139,Southwest,SoCal,Newport Beach,Los Angeles,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3840141.0,
+PROJECT_0384,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,,Hospitals,997003.0,15000.0
+PROJECT_0376,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,,Outpatient Healthcare,1858100.0,182000.0
+PROJECT_0297,,,,Abilene,TX,Advanced Systems & Innovation,,Mission Critical,1046907351.0,
+PROJECT_0310,Northeast,DC - Baltimore,Washington DC,Fairfax,VA,Clinical Infrastructure,,Hospitals,1173490.0,9250.0
+PROJECT_0133,Southwest,SoCal,Newport Beach,,,Clinical Infrastructure,,Outpatient Healthcare,1254529.0,19550.0
+PROJECT_0216,Southwest,Arizona,Tucson,Tucson,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,16846430.0,46000.0
+PROJECT_0227,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,524139.0,293000.0
+PROJECT_0113,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,Other,56083.0,720.0
+PROJECT_0056,Northwest,Bay Area,Silicon Valley,Foster City,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Office,391372.0,2500.0
+PROJECT_0206,Southwest,Arizona,Phoenix,Goodyear,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,905147.0,910.0
+PROJECT_0261,Central,Dallas FTW,Dallas FTW,Fort Worth,TX,Clinical Infrastructure,CI-Healthcare Provider,Other,34451005.0,182152.0
+PROJECT_0292,Central,Dallas FTW,Dallas FTW,Southlake,TX,Advanced Systems & Innovation,,Mission Critical,435677.0,7500000.0
+PROJECT_0450,Southeast,Central Florida,Orlando,,FL,Corporate & Workplace,CW-Media & Entertainment,Other,706100.0,150000.0
+PROJECT_0427,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),6375332.0,9153.0
+PROJECT_0172,Southwest,Arizona,Phoenix,Scottsdale,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,15937157.0,30000.0
+PROJECT_0108,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),84960.0,19845.0
+PROJECT_0124,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),268850.0,77000.0
+PROJECT_0290,Central,Dallas FTW,Dallas FTW,Midlothian,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1270676.53,
+PROJECT_0028,Northwest,Bay Area,Silicon Valley,Petaluma,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),692650.0,7000.0
+PROJECT_0152,Southwest,SoCal,Newport Beach,Pasadena,CA,Corporate & Workplace,CW-Developer,R&amp;D Building (Laboratories),0.0,93000.0
+PROJECT_0571,,,,Boulder,CO,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,2100.0
+PROJECT_0548,Northwest,Pacific Northwest,Seattle,Bellevue,WA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,0.0,160000.0
+PROJECT_0428,Southeast,Raleigh-Durham,Raleigh-Durham,Raleigh,NC,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,4616644.0,700000.0
+PROJECT_0252,Central,Houston,Houston,Cypress,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,72974074.0,128117.0
+PROJECT_0031,Northwest,Bay Area,Silicon Valley,San Carlos,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,2500.0
+PROJECT_0323,Northeast,DC - Baltimore,Washington DC,Fredericksburg,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,66964775.0,85.0
+PROJECT_0440,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,,Education/Classroom Space,2846493.0,8900.0
+PROJECT_0294,Central,Dallas FTW,Dallas FTW,Fort Worth,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1006048.0,0.0
+PROJECT_0208,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3527144.0,1800.0
+PROJECT_0338,Northeast,Richmond,Richmond,Ashland,VA,Clinical Infrastructure,,Outpatient Healthcare,1042344.0,16400.0
+PROJECT_0214,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,7000.0
+PROJECT_0254,Central,Houston,Houston,Abilene,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,450000.0
+PROJECT_0165,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Clinical Infrastructure,,Outpatient Healthcare,411193.0,59243.0
+PROJECT_0237,Central,Austin,Austin,San Antonio,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,150000.0
+PROJECT_0019,Northwest,Bay Area,Silicon Valley,,CA,Corporate & Workplace,,Office,22670.0,21000.0
+PROJECT_0572,,,Denver (D8-B),Westminster,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1207804.0,
+PROJECT_0011,Northwest,Bay Area,Silicon Valley,San Leandro,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,402445.0,0.0
+PROJECT_0553,,,Colorado Springs (D8-A),Colorado Springs,CO,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,633800.0,
+PROJECT_0464,Southeast,Central Florida,Orlando,Lake Buena Vista,FL,Corporate & Workplace,,Retail,358783.0,6860.0
+PROJECT_0234,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,ASI-Semiconductor,Advanced Manufacturing,34506474.0,112000.0
+PROJECT_0243,Central,Austin,Austin,Austin,TX,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,0.0,2500.0
+PROJECT_0248,Central,Austin,Austin,Round Rock,TX,Clinical Infrastructure,,Hospitals,1755384.0,21907.0
+PROJECT_0170,Southwest,Arizona,Phoenix,Goodyear,AZ,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Mission Critical,297169501.96,500000.0
+PROJECT_0287,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,30975.0,12.0
+PROJECT_0040,Northwest,Bay Area,Silicon Valley,Fremont,CA,Advanced Systems & Innovation,ASI-Clean Technologies,Advanced Manufacturing,478175.0,200000.0
+PROJECT_0281,Central,Dallas FTW,Dallas FTW,Garland,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2688933.0,300000.0
+PROJECT_0419,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,18331524.0,8250.0
+PROJECT_0058,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),118000.0,
+PROJECT_0447,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,126428.0,
+PROJECT_0498,,,Southeast (D5-R),Birmingham,AL,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,500000.0,300000.0
+PROJECT_0149,Southwest,SoCal,Newport Beach,Murrieta,CA,Advanced Systems & Innovation,ASI-Semiconductor,Advanced Manufacturing,174938.0,500.0
+PROJECT_0224,Central,Austin,Austin,Austin,TX,Corporate & Workplace,CW-Hospitality,Hotel / Convention Center,91481493.92,182000.0
+PROJECT_0006,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Hospitals,375675.0,4000.0
+PROJECT_0348,Northeast,Richmond,Richmond,,,Clinical Infrastructure,,Hospitals,365548.0,27500.0
+PROJECT_0289,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,857231.0,1000.0
+PROJECT_0371,Southeast,Atlanta,Atlanta,Norcross,GA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,1100000.0
+PROJECT_0239,Central,Austin,Austin,The Woodlands,TX,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,3242223.0,5200.0
+PROJECT_0558,,,Denver (D8-B),Parker,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,12586478.0,188000.0
+PROJECT_0465,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Academic Institutions,AI-Public,Education/Classroom Space,0.0,105000.0
+PROJECT_0358,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Biomedical Facilities,BF-Research & Development/Science & Technology,Office,412313.0,2073.0
+PROJECT_0539,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),25069.0,
+PROJECT_0317,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,265950.0
+PROJECT_0420,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Academic Institutions,AI-Private,Education/Classroom Space,4979082.0,51000.0
+PROJECT_0005,Northwest,Bay Area,Silicon Valley,Palo Alto,CA,Corporate & Workplace,CW-Professional Services,Office,9945001.0,191836.0
+PROJECT_0475,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,,Mission Critical,0.0,250000.0
+PROJECT_0049,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,15000.0
+PROJECT_0566,,,Denver (D8-B),Longmont,CO,Corporate & Workplace,CW-3rd Party CMs,Office,2002366.0,16700.0
+PROJECT_0518,Northeast,Boston,Boston,Worcester,MA,Corporate & Workplace,,Office,1608440.0,47500.0
+PROJECT_0494,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,CW-Media & Entertainment,Office,7829822.0,13000.0
+PROJECT_0341,Northeast,Richmond,Richmond,Sandston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1110068.0,75000.0
+PROJECT_0030,Northwest,Bay Area,Silicon Valley,San Jose,CA,Other,,Office,0.0,20000.0
+PROJECT_0436,Southeast,Central Florida,Tampa,Tampa,FL,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),1778209.0,50000.0
+PROJECT_0197,Southwest,Arizona,Phoenix,phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,750.0
+PROJECT_0389,Southeast,South Florida,South Florida,Boca Raton,FL,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,29966900.0,15000.0
+PROJECT_0070,Northwest,Sacramento,Sacramento,,,Academic Institutions,,Education/Classroom Space,4520379.0,30000.0
+PROJECT_0230,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,ASI-Semiconductor,Advanced Manufacturing,7510727.11,5000.0
+PROJECT_0493,Southeast,Nashville,Nashville,Nashville,TN,Clinical Infrastructure,,Hospitals,0.0,1264.0
+PROJECT_0311,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2184329.0,4500.0
+PROJECT_0136,Southwest,SoCal,Newport Beach,Fullerton,CA,Academic Institutions,AI-Public,Education/Classroom Space,20942314.0,19500.0
+PROJECT_0019,Northwest,Bay Area,Silicon Valley,San Jose,CA,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,8496821.0,21000.0
+PROJECT_0168,Southwest,SoCal,Newport Beach,Anaheim,CA,Corporate & Workplace,,Warehouse / Distribution,0.0,20000.0
+PROJECT_0471,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,CW-Developer,Office,0.0,38347.0
+PROJECT_0091,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),0.0,4200.0
+PROJECT_0097,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,,Outpatient Healthcare,48520.0,5300.0
+PROJECT_0028,Northwest,Bay Area,Silicon Valley,,,Biomedical Facilities,,R&amp;D Building (Laboratories),4617.0,7000.0
+PROJECT_0432,Southeast,Central Florida,Tampa,Lutz,FL,Other,OTH-Energy Provider,Mission Critical,444062.75,150000.0
+PROJECT_0337,Northeast,Richmond,Richmond,,,Advanced Systems & Innovation,,Mission Critical,220905933.27,150000.0
+PROJECT_0359,Northeast,DC - Baltimore,Baltimore,Westinster,MD,Clinical Infrastructure,,Hospitals,929840.0,20000.0
+PROJECT_0336,Northeast,Richmond,Richmond,Petersburg,VA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,11861440.0,8000.0
+PROJECT_0027,Northwest,Bay Area,Silicon Valley,,,Biomedical Facilities,,Office,804611.0,
+PROJECT_0159,Southwest,SoCal,Newport Beach,Oceanside,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,244000.0,2500.0
+PROJECT_0257,Central,Houston,Houston,Houston,TX,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,1507337.0,20000.0
+PROJECT_0474,Southeast,Charlotte-Greenville,Charlotte,,,Advanced Systems & Innovation,,Mission Critical,5408234.0,500.0
+PROJECT_0327,Northeast,DC - Baltimore,Washington DC,Washington,DC,Advanced Systems & Innovation,,Office,23131.0,
+PROJECT_0568,,,Denver (D8-B),Lakewood,CO,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,1824823.0,
+PROJECT_0314,Northeast,DC - Baltimore,Washington DC,Sterling,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,8.0
+PROJECT_0454,Southeast,Central Florida,Orlando,Altamonte Springs,FL,Clinical Infrastructure,,Hospitals,614839.0,13500.0
+PROJECT_0073,Northwest,Sacramento,Sacramento,Fair Oaks,CA,Other,,Office,0.0,7200.0
+PROJECT_0530,Northeast,Boston,Boston,Boston,MA,Academic Institutions,,Education/Classroom Space,0.0,51000.0
+PROJECT_0547,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,BF-Research & Development/Science & Technology,R&amp;D Building (Laboratories),21395488.0,20000.0
+PROJECT_0540,Northwest,Pacific Northwest,Seattle,Bothell,WA,Biomedical Facilities,BF-Research & Development/Science & Technology,R&amp;D Building (Laboratories),0.0,0.0
+PROJECT_0115,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,406617.0,3000.0
+PROJECT_0442,Southeast,Central Florida,Tampa,Tampa,FL,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,43204790.0,100000.0
+PROJECT_0277,Central,Dallas FTW,Dallas FTW,Southlake,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,5976379.22,4500.0
+PROJECT_0528,Northeast,Boston,Boston,Pawtucket,RI,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,0.0,71000.0
+PROJECT_0048,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Advanced Systems & Innovation,,Mission Critical,384350.02,10000.0
+PROJECT_0288,Central,Dallas FTW,Dallas FTW,Plano,TX,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,1071256.0,40000.0
+PROJECT_0555,,,Denver (D8-B),Lakewood,CO,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,5939536.0,116624.0
+PROJECT_0265,Central,Dallas FTW,Dallas FTW,Westlake,TX,Corporate & Workplace,,Office,1075413.0,12.0
+PROJECT_0042,Northwest,Bay Area,Silicon Valley,San Jose,CA,Advanced Systems & Innovation,ASI-Semiconductor,Mission Critical,23944569.0,300000.0
+PROJECT_0036,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Advanced Systems & Innovation,ASI-Enterprise Technologies,Office,0.0,15000.0
+PROJECT_0298,,,Central (D3-R),Abilene,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,200.0
+PROJECT_0256,Central,Houston,Houston,Houston,TX,Biomedical Facilities,BF-Research & Development/Science & Technology,Biopharm Manufacturing,89550178.0,70000.0
+PROJECT_0146,Southwest,SoCal,Newport Beach,Menifee,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,3328184.0,55000.0
+PROJECT_0416,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),1097595.0,3915.0
+PROJECT_0551,,,,Colorado Springs,CO,Advanced Systems & Innovation,,Mission Critical,0.0,56000.0
+PROJECT_0477,Southeast,Charlotte-Greenville,Charlotte,Matthews,NC,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,88985.0,88000.0
+PROJECT_0340,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,,Mission Critical,33275907.0,150000.0
+PROJECT_0379,Southeast,Atlanta,Atlanta,,,Academic Institutions,,Education/Classroom Space,19400.0,
+PROJECT_0101,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Research & Development/Science & Technology,Other,4403302.0,101000.0
+PROJECT_0128,Southwest,SoCal,Newport Beach,Murrieta,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,59175356.03,36000.0
+PROJECT_0390,Southeast,South Florida,South Florida,Doral,FL,Advanced Systems & Innovation,ASI-Developer,Mission Critical,1196113.75,200000.0
+PROJECT_0110,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),1322934.0,25684.0
+PROJECT_0085,Southwest,San Diego,San Diego,Chula Vista,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,50145202.83,60000.0
+PROJECT_0298,,,,Abilene,TX,Advanced Systems & Innovation,,Mission Critical,999556926.0,200.0
+PROJECT_0135,Southwest,SoCal,Newport Beach,Playa del Rey,CA,Corporate & Workplace,CW-Professional Services,Other,123096565.0,
+PROJECT_0105,Southwest,San Diego,San Diego,Vista,CA,Biomedical Facilities,,Biopharm Manufacturing,4190899.0,3650.0
+PROJECT_0086,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Other,0.0,1046120.0
+PROJECT_0390,Southeast,South Florida,South Florida,Doral,FL,Advanced Systems & Innovation,,Mission Critical,49049579.7,200000.0
+PROJECT_0017,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Advanced Systems & Innovation,,Office,0.0,583000.0
+PROJECT_0262,Central,Dallas FTW,Dallas FTW,Frisco,TX,Clinical Infrastructure,,Hospitals,-26086074.0,400000.0
+PROJECT_0507,Northeast,New Jersey,New Jersey,,,Advanced Systems & Innovation,,Mission Critical,16388684.08,10000.0
+PROJECT_0546,Northwest,Pacific Northwest,Seattle,,,Biomedical Facilities,,Biopharm Manufacturing,525095.0,2030.0
+PROJECT_0569,,,Denver (D8-B),Aurora,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,478218.0,255.0
+PROJECT_0341,Northeast,Richmond,Richmond,Sandston,VA,Advanced Systems & Innovation,,Mission Critical,88123522.0,75000.0
+PROJECT_0140,Southwest,SoCal,Newport Beach,Cypress,CA,Advanced Systems & Innovation,ASI-Defense & Aerospace,Advanced Manufacturing,7052542.0,7500.0
+PROJECT_0394,Southeast,South Florida,South Florida,,FL,Clinical Infrastructure,,Outpatient Healthcare,1872371.0,17000.0
+PROJECT_0520,Northeast,Boston,Boston,Southborough,MA,Clinical Infrastructure,,Outpatient Healthcare,943708.0,45000.0
+PROJECT_0485,Southeast,Nashville,Nashville,Huntsville,AL,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,982885940.0,750000.0
+PROJECT_0300,,,,Rayville,LA,Advanced Systems & Innovation,,Mission Critical,1365003601.0,2088000.0
+PROJECT_0126,Southwest,SoCal,Newport Beach,West Hills,CA,Clinical Infrastructure,,Hospitals,436524.0,15000.0
+PROJECT_0483,Southeast,Charlotte-Greenville,Greenville,Aiken,SC,Advanced Systems & Innovation,,Mission Critical,931658909.0,700000.0
+PROJECT_0164,Southwest,SoCal,Newport Beach,Van Nuys,CA,Clinical Infrastructure,,Hospitals,0.0,11423.0
+PROJECT_0348,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,,Hospitals,1337732.0,27500.0
+PROJECT_0471,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Corporate & Workplace,,Office,11112216.0,38347.0
+PROJECT_0549,Northwest,Pacific Northwest,Seattle,Bothell,WA,Biomedical Facilities,,Office,105789.0,
+PROJECT_0155,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,,Advanced Manufacturing,0.0,250000.0
+PROJECT_0122,Southwest,San Diego,San Diego,Chula Vista,CA,Clinical Infrastructure,,Hospitals,0.0,15000.0
+PROJECT_0036,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Advanced Systems & Innovation,,Office,5688515.0,15000.0
+PROJECT_0280,Central,Dallas FTW,Dallas FTW,Plano,TX,Clinical Infrastructure,,Hospitals,6723077.28,127051.0
+PROJECT_0081,Northwest,Bay Area,San Francisco,San Francisco,CA,Academic Institutions,,Education/Classroom Space,0.0,184000.0
+PROJECT_0474,Southeast,Charlotte-Greenville,Charlotte,Charlotte,NC,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,1733355.0,500.0
+PROJECT_0158,Southwest,SoCal,Newport Beach,Claremont,CA,Academic Institutions,,Student Housing,165994.0,125442.0
+PROJECT_0301,,,Central (D3-R),Burlington,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,95250888.0,50.0
+PROJECT_0107,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Biopharm Manufacturing,1357708.09,10000.0
+PROJECT_0223,Central,Austin,Austin,Austin,TX,Corporate & Workplace,CW-Developer,Residential,161569765.48,757000.0
+PROJECT_0190,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,225682.0,32050.0
+PROJECT_0487,Southeast,Nashville,Nashville,Gallatin,TN,Advanced Systems & Innovation,,Mission Critical,470695000.0,360000.0
+PROJECT_0485,Southeast,Nashville,Nashville,Huntsville,AL,Advanced Systems & Innovation,,Mission Critical,17410210.0,750000.0
+PROJECT_0097,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,10597640.0,5300.0
+PROJECT_0137,Southwest,SoCal,Newport Beach,,,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,61000.0
+PROJECT_0322,Northeast,DC - Baltimore,Washington DC,Sterling,VA,Advanced Systems & Innovation,,Mission Critical,93358762.0,32.0
+PROJECT_0039,Northwest,Bay Area,Silicon Valley,Hayward,CA,Advanced Systems & Innovation,,Advanced Manufacturing,109978.0,56000.0
+PROJECT_0161,Southwest,SoCal,Newport Beach,Tarzana,CA,Biomedical Facilities,,Biopharm Manufacturing,2016951.0,57000.0
+PROJECT_0334,Northeast,Richmond,Richmond,Charlottesville,VA,Academic Institutions,AI-Public,Education/Classroom Space,103656031.0,105000.0
+PROJECT_0069,Northwest,Sacramento,Sacramento,Fairfield,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,7495876.0,0.0
+PROJECT_0488,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,,Office,2951165.0,67820.0
+PROJECT_0496,Southeast,Nashville,Nashville,Gallatin,TN,Advanced Systems & Innovation,,Mission Critical,52427983.0,36.0
+PROJECT_0326,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,598353.0,2.0
+PROJECT_0361,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,,Other,506687.0,14000.0
+PROJECT_0064,Northwest,Sacramento,Sacramento,Fairfield,CA,Clinical Infrastructure,,Outpatient Healthcare,7500.0,500.0
+PROJECT_0335,Northeast,DC - Baltimore,Washington DC,Charlottesville,VA,Academic Institutions,,Other,40000.0,18800.0
+PROJECT_0369,,,Northeast (D4-R),Fogelsville,PA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,9465224.0,
+PROJECT_0336,Northeast,Richmond,Richmond,Petersburg,VA,Biomedical Facilities,,Biopharm Manufacturing,2009981.32,8000.0
+PROJECT_0274,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,,Office,857385.0,106613.0
+PROJECT_0018,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Biomedical Facilities,,Office,1297261.9,161000.0
+PROJECT_0490,Southeast,Nashville,Nashville,Nashville,TN,Advanced Systems & Innovation,,Mission Critical,4733803.0,102500.0
+PROJECT_0044,Northwest,Bay Area,Silicon Valley,Tracy,CA,Advanced Systems & Innovation,,Advanced Manufacturing,3108820.0,
+PROJECT_0253,Central,Houston,Houston,,,Clinical Infrastructure,,Hospitals,4635611.0,37000.0
+PROJECT_0540,Northwest,Pacific Northwest,Seattle,,,Biomedical Facilities,,R&amp;D Building (Laboratories),1993762.0,0.0
+PROJECT_0215,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Office,0.0,65065.0
+PROJECT_0491,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,,Hospitals,0.0,11500.0
+PROJECT_0171,Southwest,Arizona,Phoenix,Mesa,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,9569138.36,15800.0
+PROJECT_0046,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Mission Critical,3162089.0,40000.0
+PROJECT_0457,Southeast,Central Florida,Orlando,Davenport,FL,Clinical Infrastructure,,Hospitals,224903.0,8227.0
+PROJECT_0484,Southeast,Charlotte-Greenville,Greenville,Greer,SC,Clinical Infrastructure,,Hospitals,1832428.0,200000.0
+PROJECT_0063,Northwest,Sacramento,Sacramento,Vallejo,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,722602.0,600.0
+PROJECT_0176,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2275907.0,6000.0
+PROJECT_0353,Northeast,DC - Baltimore,Baltimore,Towson,MD,Academic Institutions,,Education/Classroom Space,52090.0,125000.0
+PROJECT_0392,Southeast,South Florida,South Florida,Boynton Beach,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,731270.5,1225.0
+PROJECT_0526,Northeast,Boston,Boston,Beverly,MA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6514594.0,18373.0
+PROJECT_0454,Southeast,Central Florida,Orlando,Altamonte Springs,FL,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,3864564.0,13500.0
+PROJECT_0401,Southeast,South Florida,South Florida,Deerfield Beach,FL,Clinical Infrastructure,,Outpatient Healthcare,0.0,114000.0
+PROJECT_0007,Northwest,Bay Area,Silicon Valley,,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),15297.0,2500.0
+PROJECT_0535,Northeast,Boston,Boston,Cambridge,MA,Biomedical Facilities,,R&amp;D Building (Laboratories),85000.0,150000.0
+PROJECT_0338,Northeast,Richmond,Richmond,Ashland,VA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,13252715.0,16400.0
+PROJECT_0557,,,,Boulder,CO,Advanced Systems & Innovation,,Advanced Manufacturing,672748.0,75000.0
+PROJECT_0050,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,BF-Medical Device,Office,4257584.0,
+PROJECT_0449,Southeast,Central Florida,Orlando,Orlando,FL,Academic Institutions,,Education/Classroom Space,0.0,90000.0
+PROJECT_0501,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,16265022.41,10000.0
+PROJECT_0102,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,361656.0,40000.0
+PROJECT_0133,Southwest,SoCal,Newport Beach,Duarte,CA,Clinical Infrastructure,,Outpatient Healthcare,3742149.0,19550.0
+PROJECT_0068,Northwest,Sacramento,Sacramento,,,Clinical Infrastructure,,Hospitals,90252.0,0.0
+PROJECT_0240,Central,Austin,Austin,Austin,TX,Advanced Systems & Innovation,,Office,89563.0,100000.0
+PROJECT_0098,Southwest,San Diego,San Diego,Encinitas,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,3400.0
+PROJECT_0289,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,,Hospitals,193753.0,1000.0
+PROJECT_0239,Central,Austin,Austin,The Woodlands,TX,Clinical Infrastructure,,Outpatient Healthcare,0.0,5200.0
+PROJECT_0231,Central,Austin,Austin,Spicewood,TX,Corporate & Workplace,,Hotel / Convention Center,9122688.0,248000.0
+PROJECT_0054,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Advanced Systems & Innovation,ASI-Clean Technologies,Other,172963.0,2000000.0
+PROJECT_0134,Southwest,SoCal,Newport Beach,Los Angeles,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,134218198.0,20000.0
+PROJECT_0446,Southeast,Central Florida,Tampa,Tampa,FL,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,411200.0,
+PROJECT_0080,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,810809.0,10000.0
+PROJECT_0095,Southwest,San Diego,San Diego,,,Biomedical Facilities,,R&amp;D Building (Laboratories),7650666.0,2000.0
+PROJECT_0334,Northeast,Richmond,Richmond,Charlottesville,VA,Academic Institutions,,Education/Classroom Space,3801787.0,105000.0
+PROJECT_0504,Northeast,New Jersey,New Jersey,Secaucus,NJ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,4736930.0,10000.0
+PROJECT_0014,Northwest,Bay Area,Silicon Valley,Sunnyvale,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),9517000.0,24000.0
+PROJECT_0328,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,48.0
+PROJECT_0032,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,1263738.0,16667.0
+PROJECT_0516,Northeast,Boston,Boston,Cambridge,MA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),91245527.0,144000.0
+PROJECT_0395,Southeast,South Florida,South Florida,,,Other,,Office,20585.0,240000.0
+PROJECT_0462,Southeast,Central Florida,Orlando,Orlando,FL,Academic Institutions,AI-Public,Student Housing,422319.17,
+PROJECT_0365,Northeast,DC - Baltimore,Baltimore,Olney,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,182547.0,400.0
+PROJECT_0089,Southwest,San Diego,San Diego,San Diego,CA,Clinical Infrastructure,CI-Healthcare Provider,Office,68120177.0,156000.0
+PROJECT_0473,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,ASI-Enterprise Technologies,Mission Critical,557210.0,875000.0
+PROJECT_0153,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,,CI-Healthcare Provider,,225103.0,
+PROJECT_0523,Northeast,Boston,Boston,Smithfield,RI,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,60068849.0,55000.0
+PROJECT_0224,Central,Austin,Austin,Austin,TX,Corporate & Workplace,,Hotel / Convention Center,131066.24,182000.0
+PROJECT_0443,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,355990.0,3000.0
+PROJECT_0434,Southeast,Central Florida,Tampa,Tampa,FL,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,1587006.0,620000.0
+PROJECT_0455,Southeast,Central Florida,Orlando,Orlando,FL,Other,,Other,445780.0,30000.0
+PROJECT_0098,Southwest,San Diego,San Diego,Encinitas,CA,Clinical Infrastructure,,Hospitals,500027.0,3400.0
+PROJECT_0118,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),959446.0,
+PROJECT_0528,Northeast,Boston,Boston,Pawtucket,RI,Clinical Infrastructure,,Outpatient Healthcare,65000.0,71000.0
+PROJECT_0112,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,Retail,251564.0,1300.0
+PROJECT_0372,Southeast,Atlanta,Atlanta,Atlanta,GA,Academic Institutions,AI-Public,Education/Classroom Space,37893260.0,64700.0
+PROJECT_0060,Northwest,Sacramento,Sacramento,,,Clinical Infrastructure,,Mission Critical,13024850.0,0.0
+PROJECT_0488,Southeast,Nashville,Nashville,Nashville,TN,Corporate & Workplace,CW-Professional Services,Office,21586770.0,67820.0
+PROJECT_0522,Northeast,Boston,Boston,,,Academic Institutions,,Education/Classroom Space,37500.0,6900.0
+PROJECT_0193,Southwest,Arizona,Phoenix,PHOENIX,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,1500.0
+PROJECT_0466,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,,Mission Critical,0.0,875000.0
+PROJECT_0310,Northeast,DC - Baltimore,Washington DC,Fairfax,VA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,4278025.0,9250.0
+PROJECT_0425,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,,Mission Critical,162475.0,10000.0
+PROJECT_0440,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,0.0,8900.0
+PROJECT_0492,Southeast,Nashville,Nashville,Springfield,TN,Clinical Infrastructure,,Hospitals,0.0,500.0
+PROJECT_0079,Northwest,Sacramento,Sacramento,Sacramento,CA,Advanced Systems & Innovation,ASI-Developer,Office,969518.0,5000.0
+PROJECT_0120,Southwest,San Diego,San Diego,Carlsbad,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),76812.0,
+PROJECT_0044,Northwest,Bay Area,Silicon Valley,Tracy,CA,Advanced Systems & Innovation,ASI-Clean Technologies,Advanced Manufacturing,0.0,
+PROJECT_0308,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,21332428.0,4.0
+PROJECT_0512,Northeast,New Jersey,New Jersey,Branchburg,NJ,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,0.0,21000.0
+PROJECT_0077,Northwest,Sacramento,Sacramento,Lodi,CA,Biomedical Facilities,,Biopharm Manufacturing,0.0,170000.0
+PROJECT_0003,Northwest,Bay Area,Silicon Valley,San Mateo,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,175000.0,37000.0
+PROJECT_0317,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,104065150.0,265950.0
+PROJECT_0242,Central,Austin,Austin,Hutto,TX,Advanced Systems & Innovation,,Mission Critical,603177047.91,235000.0
+PROJECT_0153,Southwest,SoCal,Newport Beach,,,,,,0.0,
+PROJECT_0560,,,,,,,,,0.0,
+PROJECT_0411,Southeast,Raleigh-Durham,Raleigh-Durham,Holly Springs,NC,Biomedical Facilities,,Biopharm Manufacturing,132486.0,0.0
+PROJECT_0330,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,0.0,311000.0
+PROJECT_0200,Southwest,Arizona,Phoenix,Chandler,AZ,Advanced Systems & Innovation,ASI-Semiconductor,Advanced Manufacturing,8792214.0,181655.0
+PROJECT_0242,Central,Austin,Austin,Hutto,TX,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,235000.0
+PROJECT_0140,Southwest,SoCal,Newport Beach,Cypress,CA,Advanced Systems & Innovation,,Advanced Manufacturing,963162.0,7500.0
+PROJECT_0349,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,,Mission Critical,44941765.24,200000.0
+PROJECT_0012,Northwest,Bay Area,Silicon Valley,Oakland,CA,Clinical Infrastructure,,Hospitals,48004.0,0.0
+PROJECT_0018,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Biomedical Facilities,BF-Medical Device,Office,38223738.1,161000.0
+PROJECT_0022,Northwest,Bay Area,Silicon Valley,Mountain View,CA,Clinical Infrastructure,,Outpatient Healthcare,1438311.0,770.0
+PROJECT_0053,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Other,OTH-Professional Sports,Sports and Athletics,2612393.0,4000.0
+PROJECT_0130,Southwest,SoCal,Newport Beach,Irvine,CA,Corporate & Workplace,CW-Finance/Banking/Insurance,Mission Critical,66271783.0,45000.0
+PROJECT_0328,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,220009852.0,48.0
+PROJECT_0152,Southwest,SoCal,Newport Beach,Pasadena,CA,Corporate & Workplace,,R&amp;D Building (Laboratories),0.0,93000.0
+PROJECT_0002,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Corporate & Workplace,CW-Developer,Office,303035134.0,400000.0
+PROJECT_0349,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,3220644.8,200000.0
+PROJECT_0344,Northeast,Richmond,Richmond,Richmond,VA,Clinical Infrastructure,,Hospitals,1261068.0,22000.0
+PROJECT_0262,Central,Dallas FTW,Dallas FTW,Frisco,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,292276235.0,400000.0
+PROJECT_0445,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,163829.0,192.0
+PROJECT_0439,Southeast,Central Florida,Tampa,Tampa,FL,Academic Institutions,AI-Public,Education/Classroom Space,82121.0,
+PROJECT_0154,Southwest,SoCal,Newport Beach,Pasadena,CA,Biomedical Facilities,,R&amp;D Building (Laboratories),35000.0,
+PROJECT_0147,Southwest,SoCal,Newport Beach,Thousand Oaks,CA,Biomedical Facilities,,Other,2301318.0,
+PROJECT_0320,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,81093553.0,343003.0
+PROJECT_0270,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,,Hospitals,564023.0,16000.0
+PROJECT_0146,Southwest,SoCal,Newport Beach,Menifee,CA,Clinical Infrastructure,,Outpatient Healthcare,671816.0,55000.0
+PROJECT_0313,Northeast,DC - Baltimore,Washington DC,Reston,VA,Advanced Systems & Innovation,,Mission Critical,10870573.0,225000.0
+PROJECT_0538,Northwest,Pacific Northwest,Seattle,,,Biomedical Facilities,,Other,0.0,
+PROJECT_0074,Northwest,Sacramento,Sacramento,Modesto,CA,Clinical Infrastructure,,Outpatient Healthcare,186484489.0,182200.0
+PROJECT_0346,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,,Office,2557521.0,192000.0
+PROJECT_0159,Southwest,SoCal,Newport Beach,Oceanside,CA,Biomedical Facilities,,Biopharm Manufacturing,1005910.0,2500.0
+PROJECT_0156,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,,Advanced Manufacturing,100000.0,50000.0
+PROJECT_0126,Southwest,SoCal,Newport Beach,West Hills,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,11934382.0,15000.0
+PROJECT_0408,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,1048541.0,0.0
+PROJECT_0177,Southwest,Arizona,Phoenix,Gilbert,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,15842312.82,33600.0
+PROJECT_0376,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,3255862.0,182000.0
+PROJECT_0020,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Mission Critical,566610.0,100000.0
+PROJECT_0061,Northwest,Sacramento,Sacramento,Santa Rosa,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,8540971.0,0.0
+PROJECT_0387,Southeast,Atlanta,Atlanta,Johns Creek,GA,Clinical Infrastructure,,Hospitals,0.0,1850.0
+PROJECT_0276,Central,Dallas FTW,Dallas FTW,Frisco,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,139446517.0,174000.0
+PROJECT_0259,Central,Dallas FTW,Dallas FTW,Dallas,TX,Corporate & Workplace,CW-Developer,Office,87415457.0,1256529.0
+PROJECT_0415,Southeast,Raleigh-Durham,Raleigh-Durham,Sanford,NC,Biomedical Facilities,,Biopharm Manufacturing,7412407.0,7500.0
+PROJECT_0021,Northwest,Bay Area,Silicon Valley,Alameda,CA,Biomedical Facilities,BF-Medical Device,R&amp;D Building (Laboratories),461026.0,85000.0
+PROJECT_0404,Southeast,South Florida,South Florida,Fort Lauderdale,FL,Clinical Infrastructure,,Hospitals,323732.0,560.0
+PROJECT_0130,Southwest,SoCal,Newport Beach,Irvine,CA,Corporate & Workplace,,Mission Critical,0.0,45000.0
+PROJECT_0499,Northeast,New Jersey,New Jersey,Philadelphia,PA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,350000.0,10000.0
+PROJECT_0561,,,,Denver,CO,Clinical Infrastructure,,Hospitals,38847381.0,14800.0
+PROJECT_0360,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Academic Institutions,,Education/Classroom Space,248520.0,10000.0
+PROJECT_0450,Southeast,Central Florida,Orlando,,FL,Corporate & Workplace,,Other,2171642.0,150000.0
+PROJECT_0416,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,R&amp;D Building (Laboratories),0.0,3915.0
+PROJECT_0503,Northeast,New Jersey,New Jersey,,,Biomedical Facilities,,Other,23218.42,12000.0
+PROJECT_0296,,,,,,,,,0.0,
+PROJECT_0515,Northeast,Boston,Boston,Hartford,CT,Clinical Infrastructure,,Hospitals,22986915.72,212000.0
+PROJECT_0526,Northeast,Boston,Boston,,,Clinical Infrastructure,,Hospitals,402333.0,18373.0
+PROJECT_0555,,,,Lakewood,CO,Clinical Infrastructure,,Outpatient Healthcare,1898500.0,116624.0
+PROJECT_0124,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),0.0,77000.0
+PROJECT_0038,Northwest,Bay Area,Silicon Valley,San Mateo,CA,Clinical Infrastructure,,Outpatient Healthcare,0.0,18000.0
+PROJECT_0441,Southeast,Central Florida,Tampa,Tampa,FL,Corporate & Workplace,CW-Hospitality,Sports and Athletics,1180393.0,920.0
+PROJECT_0156,Southwest,SoCal,Newport Beach,El Segundo,CA,Advanced Systems & Innovation,ASI-Defense & Aerospace,Advanced Manufacturing,0.0,50000.0
+PROJECT_0521,Northeast,Boston,Boston,Andover,MA,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Office,112305.0,
+PROJECT_0545,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),102254.0,950.0
+PROJECT_0225,Central,Austin,Austin,Georgetown,TX,Corporate & Workplace,,Mission Critical,4468921.0,30000.0
+PROJECT_0411,Southeast,Raleigh-Durham,Raleigh-Durham,Holly Springs,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,49962.0,0.0
+PROJECT_0562,,,,Denver,CO,Clinical Infrastructure,,Office,524057.12,5000.0
+PROJECT_0544,Northwest,Pacific Northwest,Seattle,Seattle,WA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,147536.85,1000.0
+PROJECT_0316,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,,Mission Critical,95513083.0,20.0
+PROJECT_0346,Northeast,Richmond,Richmond,Richmond,VA,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,31908812.0,192000.0
+PROJECT_0022,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Outpatient Healthcare,69230.0,770.0
+PROJECT_0533,Northeast,Boston,Boston,,,Clinical Infrastructure,,Outpatient Healthcare,58029637.0,95450.0
+PROJECT_0102,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,Other,1446843.0,40000.0
+PROJECT_0475,Southeast,Charlotte-Greenville,Charlotte,Forest City,NC,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,9967312.0,250000.0
+PROJECT_0538,Northwest,Pacific Northwest,Seattle,Seattle,WA,Biomedical Facilities,BF-Research & Development/Science & Technology,Other,318804.0,
+PROJECT_0335,Northeast,Richmond,Richmond,Charlottesville,VA,Academic Institutions,,Other,48684774.0,18800.0
+PROJECT_0517,Northeast,Boston,Boston,Wallingford,CT,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,41300262.0,28245.0
+PROJECT_0047,Northwest,Bay Area,Silicon Valley,South San Francisco,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),0.0,1500000.0
+PROJECT_0533,Northeast,Boston,Boston,Warwick,MA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,0.0,95450.0
+PROJECT_0482,Southeast,Charlotte-Greenville,Greenville,Clemson,SC,Academic Institutions,AI-Public,R&amp;D Building (Laboratories),545000.0,149162.0
+PROJECT_0112,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Retail,0.0,1300.0
+PROJECT_0429,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Advanced Systems & Innovation,,Mission Critical,723890.0,
+PROJECT_0511,Northeast,New Jersey,New Jersey,Piscataway,NJ,Advanced Systems & Innovation,,Mission Critical,3281351.0,20000.0
+PROJECT_0158,Southwest,SoCal,Newport Beach,Claremont,CA,Academic Institutions,AI-Private,Student Housing,0.0,125442.0
+PROJECT_0368,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6108972.0,10000.0
+PROJECT_0340,Northeast,Richmond,Richmond,Chester,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,235814043.0,150000.0
+PROJECT_0373,Southeast,Atlanta,Atlanta,,,Academic Institutions,,Education/Classroom Space,425307.0,107902.0
+PROJECT_0244,Central,Austin,Austin,Austin,TX,Corporate & Workplace,,Office,0.0,55000.0
+PROJECT_0410,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,BF-Biotech/Pharmaceutical,Biopharm Manufacturing,35499750.0,214000.0
+PROJECT_0506,Northeast,New Jersey,New Jersey,Branchburg,NJ,Advanced Systems & Innovation,,Mission Critical,476161.0,5000.0
+PROJECT_0260,Central,Dallas FTW,Dallas FTW,Arlington,TX,Clinical Infrastructure,,Hospitals,5210824.0,138260.0
+PROJECT_0283,Central,Dallas FTW,Dallas FTW,Southlake,TX,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,3855541.64,
+PROJECT_0396,Southeast,South Florida,South Florida,Miami,FL,Advanced Systems & Innovation,,Office,851374.0,25769.0
+PROJECT_0088,Southwest,San Diego,San Diego,San Marcos,CA,Academic Institutions,,Office,0.0,155000.0
+PROJECT_0251,Central,Austin,Austin,,,Clinical Infrastructure,,Hospitals,475641.0,815.0
+PROJECT_0205,Southwest,Arizona,Phoenix,phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,500.0
+PROJECT_0552,,,Colorado Springs (D8-A),Colorado Springs,CO,Advanced Systems & Innovation,ASI-Consumer/Commercial Electronics,Mission Critical,717244.0,6000.0
+PROJECT_0072,Northwest,Sacramento,Sacramento,Sacramento,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1099896.0,1200.0
+PROJECT_0016,Northwest,Bay Area,Silicon Valley,Livermore,CA,Corporate & Workplace,CW-Developer,Office,4489912.0,10200.0
+PROJECT_0005,Northwest,Bay Area,Silicon Valley,,,Corporate & Workplace,,Office,15523607.0,191836.0
+PROJECT_0111,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,,Other,0.0,2850.0
+PROJECT_0419,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Biomedical Facilities,,Biopharm Manufacturing,1855358.0,8250.0
+PROJECT_0068,Northwest,Sacramento,Sacramento,Vacaville,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1359555.0,0.0
+PROJECT_0332,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,0.0,10000.0
+PROJECT_0041,Northwest,Bay Area,Silicon Valley,San Rafael,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),0.0,
+PROJECT_0149,Southwest,SoCal,Newport Beach,Murrieta,CA,Advanced Systems & Innovation,,Advanced Manufacturing,0.0,500.0
+PROJECT_0032,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Corporate & Workplace,,Office,0.0,16667.0
+PROJECT_0067,Northwest,Sacramento,Sacramento,,,Clinical Infrastructure,,Hospitals,98328.0,0.0
+PROJECT_0145,Southwest,SoCal,Newport Beach,,,Clinical Infrastructure,,Hospitals,797970.0,185000.0
+PROJECT_0506,Northeast,New Jersey,New Jersey,Branchburg,NJ,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,1151730.08,5000.0
+PROJECT_0408,Southeast,Raleigh-Durham,Raleigh-Durham,,,Biomedical Facilities,,Biopharm Manufacturing,0.0,0.0
+PROJECT_0123,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),933554.0,500.0
+PROJECT_0567,,,Denver (D8-B),Denver,CO,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,2099004.39,5000.0
+PROJECT_0119,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),0.0,50000.0
+PROJECT_0564,,,Denver (D8-B),Louisville,CO,Biomedical Facilities,BF-Research & Development/Science & Technology,Biopharm Manufacturing,3899370.0,7854.0
+PROJECT_0379,Southeast,Atlanta,Atlanta,,,Academic Institutions,,Education/Classroom Space,1304751.0,
+PROJECT_0518,Northeast,Boston,Boston,Worcester,MA,Corporate & Workplace,CW-Developer,Office,20139496.0,47500.0
+PROJECT_0453,Southeast,Central Florida,Orlando,Orlando,FL,Other,,Other,290000.0,20000.0
+PROJECT_0107,Southwest,San Diego,San Diego,,,Biomedical Facilities,,Biopharm Manufacturing,913662.0,10000.0
+PROJECT_0008,Northwest,Bay Area,Silicon Valley,Santa Clara,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,24905076.58,243000.0
+PROJECT_0352,Northeast,DC - Baltimore,Baltimore,Baltimore,MD,Clinical Infrastructure,CI-Healthcare Provider,R&amp;D Building (Laboratories),622779891.0,554000.0
+PROJECT_0531,Northeast,Boston,Boston,Westborough,MA,Advanced Systems & Innovation,,Office,0.0,
+PROJECT_0306,Northeast,DC - Baltimore,Washington DC,Alexandria,VA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,1063821.0
+PROJECT_0378,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6377822.0,14000.0
+PROJECT_0324,Northeast,DC - Baltimore,Washington DC,Ashburn,VA,Advanced Systems & Innovation,ASI-Internet & Telecom,Mission Critical,43251138.0,
+PROJECT_0460,Southeast,Central Florida,Orlando,Ocala,FL,Other,OTH-Energy Provider,Warehouse / Distribution,0.0,74000.0
+PROJECT_0417,Southeast,Raleigh-Durham,Raleigh-Durham,Durham,NC,Academic Institutions,,Sports and Athletics,200000.0,55000.0
+PROJECT_0030,Northwest,Bay Area,Silicon Valley,San Jose,CA,Other,OTH-Amusement & Theme Parks,Office,20915454.0,20000.0
+PROJECT_0499,Northeast,New Jersey,New Jersey,,,Advanced Systems & Innovation,,Mission Critical,7506112.0,10000.0
+PROJECT_0038,Northwest,Bay Area,Silicon Valley,San Mateo,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,660021.0,18000.0
+PROJECT_0384,Southeast,Atlanta,Atlanta,Atlanta,GA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,5600577.0,15000.0
+PROJECT_0122,Southwest,San Diego,San Diego,Chula Vista,CA,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,15000.0
+PROJECT_0013,Northwest,Bay Area,Silicon Valley,,,Clinical Infrastructure,,Hospitals,85252.0,0.0
+PROJECT_0510,Northeast,New Jersey,New Jersey,Piscataway,NJ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,43931.0,30.0
+PROJECT_0060,Northwest,Sacramento,Sacramento,Napa,CA,Clinical Infrastructure,CI-Healthcare Provider,Mission Critical,47383.0,0.0
+PROJECT_0512,Northeast,New Jersey,New Jersey,,,Biomedical Facilities,,Biopharm Manufacturing,1052407.0,21000.0
+PROJECT_0437,Southeast,Central Florida,Tampa,Tampa,FL,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,1220875.0,189000.0
+PROJECT_0100,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),633408.0,39000.0
+PROJECT_0521,Northeast,Boston,Boston,,,Advanced Systems & Innovation,,Office,1408977.0,
+PROJECT_0270,Central,Dallas FTW,Dallas FTW,Dallas,TX,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,6207911.0,16000.0
+PROJECT_0023,Northwest,Bay Area,Silicon Valley,San Francisco,CA,Corporate & Workplace,CW-Professional Services,Office,7312899.0,20000.0
+PROJECT_0211,Southwest,Arizona,Phoenix,Phoenix,AZ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,2581767.0,2.0
+PROJECT_0537,Northwest,Pacific Northwest,Seattle,Quincy,WA,Advanced Systems & Innovation,ASI-Developer,Mission Critical,127606898.0,200000.0
+PROJECT_0059,Northwest,Bay Area,Silicon Valley,San Rafael,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,Office,0.0,17000.0
+PROJECT_0069,Northwest,Sacramento,Sacramento,Fairfield,CA,Clinical Infrastructure,,Hospitals,1132555.0,0.0
+PROJECT_0438,Southeast,Central Florida,Tampa,Tampa,FL,Other,OTH-Cultural & Community,Education/Classroom Space,0.0,6000.0
+PROJECT_0535,Northeast,Boston,Boston,Cambridge,MA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),0.0,150000.0
+PROJECT_0108,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Developer,R&amp;D Building (Laboratories),1276360.0,19845.0
+PROJECT_0163,Southwest,SoCal,Newport Beach,Irvine,CA,Biomedical Facilities,BF-Research & Development/Science & Technology,Office,2844206.0,5000.0
+PROJECT_0017,Northwest,Bay Area,Silicon Valley,,,Advanced Systems & Innovation,,Office,67019.0,583000.0
+PROJECT_0066,Northwest,Sacramento,Sacramento,,,Clinical Infrastructure,,Hospitals,70028.0,500.0
+PROJECT_0099,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Research & Development/Science & Technology,R&amp;D Building (Laboratories),660929.0,450000.0
+PROJECT_0508,Northeast,New Jersey,New Jersey,Neptune City,NJ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,0.0,57500.0
+PROJECT_0182,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,1075144.0,800.0
+PROJECT_0511,Northeast,New Jersey,New Jersey,Piscataway,NJ,Advanced Systems & Innovation,ASI-Developer,Mission Critical,30616976.0,20000.0
+PROJECT_0110,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),5841858.0,25684.0
+PROJECT_0508,Northeast,New Jersey,New Jersey,Neptune City,NJ,Clinical Infrastructure,,Hospitals,0.0,57500.0
+PROJECT_0142,Southwest,SoCal,Newport Beach,Irvine,CA,Corporate & Workplace,CW-Finance/Banking/Insurance,Office,8317345.0,25199.0
+PROJECT_0114,Southwest,San Diego,San Diego,San Diego,CA,Biomedical Facilities,BF-Biotech/Pharmaceutical,R&amp;D Building (Laboratories),0.0,
+PROJECT_0204,Southwest,Arizona,Phoenix,Phoenix,AZ,Clinical Infrastructure,CI-Healthcare Provider,Hospitals,183151.0,2000.0
+PROJECT_0421,Southeast,Raleigh-Durham,Raleigh-Durham,,,Biomedical Facilities,,Warehouse / Distribution,2864.0,
+PROJECT_0133,Southwest,SoCal,Newport Beach,Duarte,CA,Clinical Infrastructure,CI-Healthcare Provider,Outpatient Healthcare,17911707.0,19550.0
